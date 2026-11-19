@@ -1,0 +1,21 @@
+Name: Anika Patel
+Title: Data Analyst
+Location: Berlin, DE
+Summary: Data Analyst with 4+ years building data systems.
+Skills: Python, Pandas, Machine Learning, PyTorch, Data Analysis, Docker, Spark, Deep Learning
+Education: Diploma in Software Engineering
+Experience:
+- Data Analyst, Cobalt (2026-02 to Present)
+  * Delivered a forecasting pipeline using Pandas, boosting accuracy by 17%.
+  * Delivered a forecasting pipeline using Deep Learning and Docker, serving 79k daily users.
+  * Delivered a recommendation engine using Machine Learning and Deep Learning, saving $57k per year.
+- Junior Data Analyst, Tidal (2024-08 to 2025-12)
+  * Delivered a fraud-detection model using Docker, reducing incidents by 16%.
+  * Delivered a churn-prediction model using Python and Data Analysis, serving 18k daily users.
+- Junior ML Engineer, Quantix (2023-10 to 2024-08)
+  * Delivered a forecasting pipeline using Spark, saving $24k per year.
+  * Delivered a churn-prediction model using Docker, boosting accuracy by 25%.
+- Junior Data Analyst, Ironclad (2023-03 to 2023-10)
+  * Delivered a recommendation engine using PyTorch, serving 75k daily users.
+  * Delivered a churn-prediction model using Pandas and Data Analysis, reducing load time by 13%.
+  * Delivered a recommendation engine using Docker, reducing incidents by 75%.

@@ -1,0 +1,20 @@
+Name: Ivan Singh
+Title: Senior Software Engineer
+Location: Berlin, DE
+Summary: Senior Software Engineer with 7+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, Git, Redis, CI/CD, TypeScript
+Education: MSc Computer Science
+Experience:
+- Senior Software Engineer, Northwind (2025-02 to Present)
+  * Delivered a design system using Redis and JavaScript, serving 21k daily users.
+  * Delivered a design system using Redis, saving $64k per year.
+  * Delivered an analytics dashboard using CI/CD and TypeScript, serving 44k daily users.
+- Full Stack Engineer, Stackhouse (2023-12 to 2025-02)
+  * Delivered an analytics dashboard using Node.js, reducing incidents by 50%.
+  * Delivered an analytics dashboard using Node.js and Git, boosting accuracy by 45%.
+- Junior Software Engineer, Pixel&Co (2021-12 to 2023-12)
+  * Delivered the checkout flow using SQL, reducing load time by 13%.
+  * Delivered an analytics dashboard using SQL and CI/CD, boosting accuracy by 74%.
+- Junior Full Stack Engineer, Quantix (2020-03 to 2021-11)
+  * Delivered the checkout flow using TypeScript, reducing load time by 14%.
+  * Delivered the checkout flow using TypeScript, saving $30k per year.

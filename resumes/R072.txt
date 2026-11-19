@@ -1,0 +1,12 @@
+Name: Lena Kim
+Title: Junior Platform Engineer
+Location: Berlin, DE
+Summary: Junior Platform Engineer with 1+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Kubernetes, Git, Microservices
+Education: MSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Junior Platform Engineer, Kestrel (2025-07 to Present)
+  * Delivered the deployment pipeline using Docker, reducing load time by 23%.
+  * Delivered the deployment pipeline using Git, reducing incidents by 27%.
+  * Delivered a multi-region platform using Git, cutting latency by 60%.

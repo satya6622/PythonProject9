@@ -1,0 +1,18 @@
+Name: Olivia Novak
+Title: Lead Platform Engineer
+Location: Austin, TX
+Summary: Lead Platform Engineer with 11+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Git, AWS, Microservices, GCP, Python, Kubernetes
+Education: B.Tech Computer Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Lead Platform Engineer, Stackhouse (2022-07 to Present)
+  * Delivered an autoscaling cluster using GCP, reducing incidents by 46%.
+  * Delivered a multi-region platform using Kubernetes, saving $29k per year.
+- Senior Platform Engineer, Meridian (2017-08 to 2022-05)
+  * Delivered the observability stack using Linux, reducing load time by 31%.
+  * Delivered the observability stack using Microservices and Linux, saving $27k per year.
+- Platform Engineer, Paperplane (2015-07 to 2017-06)
+  * Delivered the observability stack using Python and CI/CD, reducing incidents by 27%.
+  * Delivered a multi-region platform using Python, cutting latency by 19%.
+  * Delivered the deployment pipeline using CI/CD and Docker, improving conversion by 32%.

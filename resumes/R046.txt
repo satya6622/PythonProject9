@@ -1,0 +1,14 @@
+Name: Tomas Garcia
+Title: Lead Platform Engineer
+Location: Remote
+Summary: Lead Platform Engineer with 9+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Go, Microservices, Kubernetes, Azure
+Education: MSc Computer Science
+Experience:
+- Lead Platform Engineer, Tidal (2023-01 to Present)
+  * Delivered an autoscaling cluster using Microservices and Azure, reducing incidents by 24%.
+  * Delivered a multi-region platform using Go, improving conversion by 61%.
+- Senior DevOps Engineer, Solstice (2017-08 to 2023-01)
+  * Delivered a multi-region platform using Microservices, improving conversion by 18%.
+  * Delivered an autoscaling cluster using Go and Linux, reducing load time by 70%.
+  * Delivered the deployment pipeline using Kubernetes and Go, saving $52k per year.

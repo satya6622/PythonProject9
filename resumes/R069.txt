@@ -1,0 +1,25 @@
+Name: Ravi Cohen
+Title: Web Developer
+Location: Toronto, CA
+Summary: Web Developer with 4+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Vue, REST APIs, TypeScript, Next.js, AWS
+Education: BSc Mathematics
+Experience:
+- Web Developer, Meridian (2026-02 to Present)
+  * Delivered a design system using TypeScript and Next.js, cutting latency by 80%.
+  * Delivered a design system using HTML/CSS and React, boosting accuracy by 71%.
+  * Delivered a customer portal using REST APIs and TypeScript, reducing incidents by 71%.
+- Junior UI Engineer, Acme Corp (2025-08 to 2026-02)
+  * Delivered the checkout flow using REST APIs and Vue, saving $71k per year.
+  * Delivered a design system using TypeScript and Vue, serving 28k daily users.
+- Junior Web Developer, Ironclad (2024-11 to 2025-08)
+  * Delivered a customer portal using Vue, cutting latency by 73%.
+  * Delivered a customer portal using HTML/CSS, cutting latency by 67%.
+- Junior Frontend Engineer, Cobalt (2023-10 to 2024-10)
+  * Delivered the checkout flow using AWS and Vue, boosting accuracy by 68%.
+  * Delivered a customer portal using React and Vue, serving 25k daily users.
+  * Delivered the checkout flow using React and Vue, reducing load time by 39%.
+- Junior Frontend Engineer, Bluepeak (2022-09 to 2023-10)
+  * Delivered an analytics dashboard using Next.js and TypeScript, improving conversion by 67%.
+  * Delivered a customer portal using Next.js, reducing load time by 77%.
+  * Delivered an analytics dashboard using JavaScript, improving conversion by 19%.

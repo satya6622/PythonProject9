@@ -1,0 +1,20 @@
+Name: Tomas Larsen
+Title: Senior Full Stack Engineer
+Location: Bengaluru, IN
+Summary: Senior Full Stack Engineer with 7+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, TypeScript, Redis, React, PostgreSQL
+Education: MSc Computer Science
+Experience:
+- Senior Full Stack Engineer, Nimbus Labs (2025-02 to Present)
+  * Delivered an analytics dashboard using PostgreSQL, reducing load time by 61%.
+  * Delivered a design system using SQL and Node.js, cutting latency by 47%.
+- Full Stack Engineer, Stackhouse (2023-02 to 2025-01)
+  * Delivered a design system using React, saving $61k per year.
+  * Delivered a design system using Node.js, reducing incidents by 21%.
+  * Delivered an analytics dashboard using SQL and JavaScript, saving $65k per year.
+- Junior Software Engineer, Bluepeak (2021-08 to 2023-02)
+  * Delivered a customer portal using Redis, serving 48k daily users.
+  * Delivered the checkout flow using Redis and PostgreSQL, reducing incidents by 80%.
+- Junior Software Engineer, Ironclad (2020-03 to 2021-07)
+  * Delivered a design system using Node.js, reducing load time by 67%.
+  * Delivered the checkout flow using PostgreSQL and JavaScript, reducing load time by 51%.

@@ -1,0 +1,21 @@
+Name: Amara Garcia
+Title: Senior Backend Engineer
+Location: Austin, TX
+Summary: Senior Backend Engineer with 6+ years building backend systems.
+Skills: Python, SQL, REST APIs, Kafka, CI/CD, PostgreSQL
+Education: Diploma in Software Engineering
+Experience:
+- Senior Backend Engineer, Solstice (2025-04 to Present)
+  * Delivered a payments API using PostgreSQL and Python, saving $68k per year.
+  * Delivered a payments API using REST APIs, serving 30k daily users.
+  * Delivered an internal billing service using REST APIs, serving 53k daily users.
+- Backend Engineer, Pixel&Co (2024-01 to 2025-03)
+  * Delivered an internal billing service using Python and CI/CD, saving $55k per year.
+  * Delivered an internal billing service using Python and Kafka, reducing load time by 52%.
+- Junior Backend Engineer, Nimbus Labs (2022-11 to 2023-12)
+  * Delivered a payments API using Python, boosting accuracy by 28%.
+  * Delivered a payments API using SQL and Kafka, improving conversion by 66%.
+  * Delivered an order-processing service using Python and Kafka, reducing load time by 76%.
+- Junior Backend Engineer, Ironclad (2021-01 to 2022-09)
+  * Delivered a notification platform using Python and REST APIs, improving conversion by 51%.
+  * Delivered an internal billing service using Python and REST APIs, boosting accuracy by 30%.

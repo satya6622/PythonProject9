@@ -1,0 +1,23 @@
+Name: Lena Petrov
+Title: Senior Site Reliability Engineer
+Location: Berlin, DE
+Summary: Senior Site Reliability Engineer with 8+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Git, Azure, AWS, Kubernetes, Go, Terraform
+Education: Diploma in Software Engineering
+Certifications: CKA
+Experience:
+- Senior Site Reliability Engineer, Bluepeak (2024-12 to Present)
+  * Delivered an autoscaling cluster using CI/CD, improving conversion by 26%.
+  * Delivered the deployment pipeline using Azure and Go, cutting latency by 53%.
+- DevOps Engineer, Acme Corp (2023-08 to 2024-12)
+  * Delivered an autoscaling cluster using Docker, saving $51k per year.
+  * Delivered the observability stack using Kubernetes and Docker, boosting accuracy by 16%.
+  * Delivered an autoscaling cluster using CI/CD, reducing load time by 46%.
+- Junior Platform Engineer, Northwind (2020-11 to 2022-11)
+  * Delivered an autoscaling cluster using Git and Docker, reducing load time by 37%.
+  * Delivered an autoscaling cluster using Go, reducing incidents by 38%.
+  * Delivered the deployment pipeline using Docker and Kubernetes, improving conversion by 32%.
+- Junior DevOps Engineer, Ironclad (2018-09 to 2020-11)
+  * Delivered the deployment pipeline using Azure, boosting accuracy by 47%.
+  * Delivered an autoscaling cluster using Terraform and Azure, reducing load time by 17%.
+  * Delivered a multi-region platform using Linux, boosting accuracy by 23%.

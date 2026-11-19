@@ -1,0 +1,21 @@
+Name: Arjun Costa
+Title: Senior DevOps Engineer
+Location: London, UK
+Summary: Senior DevOps Engineer with 5+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Terraform, Git, Python, GCP, Go
+Education: B.Tech Computer Engineering
+Certifications: Certified Scrum Master
+Experience:
+- Senior DevOps Engineer, Helio Systems (2025-08 to Present)
+  * Delivered the observability stack using Docker, saving $51k per year.
+  * Delivered a multi-region platform using Git and Python, cutting latency by 27%.
+- Platform Engineer, Acme Corp (2024-03 to 2025-08)
+  * Delivered an autoscaling cluster using Docker, serving 72k daily users.
+  * Delivered a multi-region platform using Python and Git, serving 12k daily users.
+  * Delivered a multi-region platform using Go and Docker, reducing load time by 35%.
+- Junior DevOps Engineer, Brightwave (2022-05 to 2023-06)
+  * Delivered a multi-region platform using Linux and GCP, reducing incidents by 48%.
+  * Delivered the deployment pipeline using GCP and CI/CD, improving conversion by 16%.
+- Junior Site Reliability Engineer, Quantix (2021-02 to 2022-04)
+  * Delivered a multi-region platform using Docker and Python, saving $79k per year.
+  * Delivered the deployment pipeline using Python, reducing load time by 25%.

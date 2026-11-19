@@ -1,0 +1,16 @@
+Name: Alma Petrov
+Title: Senior Backend Engineer
+Location: London, UK
+Summary: Senior Backend Engineer with 8+ years building backend systems.
+Skills: Python, SQL, REST APIs, PostgreSQL, Kafka, Redis
+Education: BSc Mathematics
+Certifications: AWS Certified Developer
+Experience:
+- Senior Backend Engineer, Nimbus Labs (2021-10 to Present)
+  * Delivered an order-processing service using Redis and PostgreSQL, improving conversion by 43%.
+  * Delivered an internal billing service using SQL and Redis, boosting accuracy by 66%.
+  * Delivered a payments API using PostgreSQL and Kafka, boosting accuracy by 58%.
+- Python Developer, Lumen (2018-06 to 2021-10)
+  * Delivered a payments API using Python, reducing load time by 62%.
+  * Delivered a notification platform using Redis, reducing load time by 78%.
+  * Delivered a notification platform using Python and Redis, reducing incidents by 52%.

@@ -1,0 +1,23 @@
+Name: Ana Sato
+Title: DevOps Engineer
+Location: Toronto, CA
+Summary: DevOps Engineer with 4+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Terraform, Azure, GCP, Go
+Education: Diploma in Software Engineering
+Certifications: Certified Scrum Master
+Experience:
+- DevOps Engineer, Quantix (2025-10 to Present)
+  * Delivered the observability stack using Docker and Go, improving conversion by 40%.
+  * Delivered an autoscaling cluster using Azure, reducing load time by 61%.
+  * Delivered an autoscaling cluster using GCP and Azure, reducing load time by 34%.
+- Junior DevOps Engineer, Fathom (2025-03 to 2025-10)
+  * Delivered the deployment pipeline using Go, improving conversion by 42%.
+  * Delivered the observability stack using Go, improving conversion by 63%.
+- Junior DevOps Engineer, Pixel&Co (2024-03 to 2025-01)
+  * Delivered an autoscaling cluster using Docker and Azure, cutting latency by 36%.
+  * Delivered the deployment pipeline using Linux and Azure, cutting latency by 64%.
+  * Delivered the observability stack using Docker, improving conversion by 26%.
+- Junior DevOps Engineer, Lumen (2023-01 to 2024-02)
+  * Delivered the deployment pipeline using Terraform and Go, reducing load time by 45%.
+  * Delivered the observability stack using Go and Azure, reducing incidents by 41%.
+  * Delivered the observability stack using Azure and GCP, serving 13k daily users.

@@ -1,0 +1,18 @@
+Name: Felix Lopez
+Title: Python Developer
+Location: Toronto, CA
+Summary: Python Developer with 3+ years building backend systems.
+Skills: Python, SQL, REST APIs, Kubernetes, Docker, Git, CI/CD, FastAPI
+Education: BSc Mathematics
+Certifications: CKA
+Experience:
+- Python Developer, Northwind (2026-01 to Present)
+  * Delivered a payments API using Git and Kubernetes, boosting accuracy by 73%.
+  * Delivered a payments API using FastAPI, cutting latency by 41%.
+  * Delivered a notification platform using Kubernetes and SQL, cutting latency by 32%.
+- Junior Python Developer, Solstice (2025-01 to 2026-01)
+  * Delivered a payments API using Python, reducing load time by 43%.
+  * Delivered an order-processing service using CI/CD, serving 32k daily users.
+- Junior Python Developer, Fathom (2024-04 to 2025-01)
+  * Delivered an internal billing service using REST APIs and Python, saving $72k per year.
+  * Delivered an order-processing service using Python, boosting accuracy by 64%.

@@ -1,0 +1,18 @@
+Name: Samir Chen
+Title: Software Engineer
+Location: London, UK
+Summary: Software Engineer with 4+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, AWS, TypeScript, PostgreSQL, MongoDB
+Education: BSc Computer Science
+Certifications: CKA
+Experience:
+- Software Engineer, Stackhouse (2025-03 to Present)
+  * Delivered a customer portal using Node.js and AWS, improving conversion by 45%.
+  * Delivered the checkout flow using JavaScript, cutting latency by 42%.
+- Junior Full Stack Engineer, Solstice (2024-03 to 2025-01)
+  * Delivered a design system using Node.js and JavaScript, reducing load time by 46%.
+  * Delivered an analytics dashboard using TypeScript, reducing incidents by 28%.
+- Junior Full Stack Engineer, Northwind (2022-08 to 2024-01)
+  * Delivered an analytics dashboard using MongoDB and AWS, boosting accuracy by 71%.
+  * Delivered an analytics dashboard using MongoDB, reducing load time by 73%.
+  * Delivered an analytics dashboard using AWS and Node.js, improving conversion by 39%.

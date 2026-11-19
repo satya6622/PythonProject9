@@ -1,0 +1,15 @@
+Name: Leila Costa
+Title: Senior Software Engineer
+Location: Austin, TX
+Summary: Senior Software Engineer with 7+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, MongoDB, Docker, Redis, Git, REST APIs, PostgreSQL
+Education: BSc Information Technology
+Certifications: Certified Scrum Master
+Experience:
+- Senior Software Engineer, Quantix (2024-03 to Present)
+  * Delivered an analytics dashboard using Node.js, serving 51k daily users.
+  * Delivered the checkout flow using JavaScript, reducing load time by 45%.
+  * Delivered an analytics dashboard using Git and Node.js, reducing incidents by 19%.
+- Full Stack Engineer, Cobalt (2019-08 to 2024-02)
+  * Delivered a customer portal using Docker and MongoDB, reducing incidents by 29%.
+  * Delivered the checkout flow using Node.js, improving conversion by 78%.

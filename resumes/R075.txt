@@ -1,0 +1,24 @@
+Name: Tomas Haddad
+Title: Python Developer
+Location: Berlin, DE
+Summary: Python Developer with 2+ years building backend systems.
+Skills: Python, SQL, REST APIs, FastAPI, Redis, Kubernetes, AWS, Git
+Education: BSc Mathematics
+Experience:
+- Python Developer, Nimbus Labs (2026-07 to Present)
+  * Delivered an internal billing service using REST APIs, reducing load time by 48%.
+  * Delivered an internal billing service using REST APIs and SQL, cutting latency by 46%.
+- Junior Python Developer, Paperplane (2025-12 to 2026-07)
+  * Delivered a payments API using Git, cutting latency by 36%.
+  * Delivered an order-processing service using Git, improving conversion by 76%.
+  * Delivered a payments API using Redis and SQL, reducing load time by 36%.
+- Junior Python Developer, Kestrel (2025-04 to 2025-10)
+  * Delivered a payments API using Kubernetes and Git, serving 70k daily users.
+  * Delivered an order-processing service using Git, reducing load time by 80%.
+- Junior Backend Engineer, Lumen (2024-09 to 2025-04)
+  * Delivered an order-processing service using Git, cutting latency by 24%.
+  * Delivered an internal billing service using Python and FastAPI, cutting latency by 21%.
+- Junior Python Developer, Quantix (2024-05 to 2024-09)
+  * Delivered an order-processing service using Kubernetes, improving conversion by 46%.
+  * Delivered a notification platform using SQL and REST APIs, reducing incidents by 19%.
+  * Delivered an internal billing service using REST APIs, boosting accuracy by 71%.

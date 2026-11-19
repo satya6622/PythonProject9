@@ -1,0 +1,24 @@
+Name: Samir Singh
+Title: Senior Data Analyst
+Location: Toronto, CA
+Summary: Senior Data Analyst with 5+ years building data systems.
+Skills: Python, Pandas, Machine Learning, AWS, SQL, Docker
+Education: BSc Information Technology
+Certifications: AWS Certified Developer
+Experience:
+- Senior Data Analyst, Bluepeak (2026-01 to Present)
+  * Delivered a churn-prediction model using AWS, improving conversion by 20%.
+  * Delivered a fraud-detection model using AWS, reducing load time by 48%.
+- ML Engineer, Meridian (2024-11 to 2026-01)
+  * Delivered a churn-prediction model using Docker and Machine Learning, reducing incidents by 56%.
+  * Delivered a recommendation engine using Machine Learning, saving $79k per year.
+  * Delivered a forecasting pipeline using Docker, boosting accuracy by 14%.
+- Junior ML Engineer, Paperplane (2023-08 to 2024-09)
+  * Delivered a churn-prediction model using AWS and SQL, reducing load time by 65%.
+  * Delivered a churn-prediction model using AWS, reducing load time by 24%.
+- Junior Data Analyst, Bluepeak (2022-11 to 2023-08)
+  * Delivered a forecasting pipeline using SQL, improving conversion by 41%.
+  * Delivered a recommendation engine using Python and AWS, cutting latency by 78%.
+- Junior Data Analyst, Solstice (2021-08 to 2022-10)
+  * Delivered a fraud-detection model using Machine Learning and Pandas, reducing incidents by 65%.
+  * Delivered a fraud-detection model using Pandas, saving $35k per year.

@@ -1,0 +1,13 @@
+Name: Aarav Costa
+Title: Senior Frontend Engineer
+Location: London, UK
+Summary: Senior Frontend Engineer with 7+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, AWS, REST APIs, Agile, Next.js
+Education: BSc Computer Science
+Experience:
+- Senior Frontend Engineer, Northwind (2023-02 to Present)
+  * Delivered the checkout flow using Next.js and HTML/CSS, saving $73k per year.
+  * Delivered an analytics dashboard using JavaScript and Agile, serving 53k daily users.
+- Frontend Engineer, Pixel&Co (2020-02 to 2022-12)
+  * Delivered the checkout flow using Next.js, cutting latency by 45%.
+  * Delivered an analytics dashboard using Next.js, serving 66k daily users.

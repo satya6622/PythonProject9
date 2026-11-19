@@ -1,0 +1,21 @@
+Name: Clara Lopez
+Title: Backend Engineer
+Location: Austin, TX
+Summary: Backend Engineer with 4+ years building backend systems.
+Skills: Java, Spring, SQL, Agile, Kafka, MySQL, Kubernetes, AWS, Microservices
+Education: BSc Computer Science
+Certifications: Certified Scrum Master
+Experience:
+- Backend Engineer, Vertex AI (2025-12 to Present)
+  * Delivered a payments API using Agile and SQL, serving 42k daily users.
+  * Delivered an internal billing service using MySQL and SQL, reducing incidents by 15%.
+  * Delivered a payments API using Kafka and Kubernetes, saving $61k per year.
+- Junior Java Developer, Kestrel (2025-03 to 2025-12)
+  * Delivered a notification platform using AWS and Kubernetes, improving conversion by 35%.
+  * Delivered a notification platform using AWS, improving conversion by 40%.
+- Junior Java Developer, Solstice (2024-06 to 2025-02)
+  * Delivered a notification platform using SQL, reducing incidents by 60%.
+  * Delivered a notification platform using Kafka and Microservices, cutting latency by 37%.
+- Junior Backend Engineer, Brightwave (2022-08 to 2024-04)
+  * Delivered an order-processing service using Agile and SQL, boosting accuracy by 33%.
+  * Delivered an internal billing service using SQL and Microservices, serving 67k daily users.

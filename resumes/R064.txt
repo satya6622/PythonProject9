@@ -1,0 +1,18 @@
+Name: Arjun Novak
+Title: Senior ML Engineer
+Location: Austin, TX
+Summary: Senior ML Engineer with 5+ years building data systems.
+Skills: Python, Pandas, Machine Learning, SQL, Airflow, AWS, Docker, TensorFlow
+Education: BSc Computer Science
+Experience:
+- Senior ML Engineer, Northwind (2024-05 to Present)
+  * Delivered a fraud-detection model using Pandas, cutting latency by 68%.
+  * Delivered a churn-prediction model using TensorFlow and Pandas, saving $63k per year.
+- Data Analyst, Orbital (2023-02 to 2024-03)
+  * Delivered a fraud-detection model using AWS and SQL, serving 80k daily users.
+  * Delivered a churn-prediction model using Python, saving $78k per year.
+  * Delivered a forecasting pipeline using Airflow, saving $62k per year.
+- Junior Data Analyst, Quantix (2021-06 to 2023-01)
+  * Delivered a recommendation engine using Machine Learning and Python, reducing load time by 35%.
+  * Delivered a recommendation engine using Airflow and TensorFlow, saving $15k per year.
+  * Delivered a forecasting pipeline using Python and SQL, saving $23k per year.

@@ -1,0 +1,10 @@
+Name: Tara Haddad
+Title: Junior Frontend Engineer
+Location: London, UK
+Summary: Junior Frontend Engineer with 2+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, AWS, REST APIs, Vue, Angular, Testing, TypeScript
+Education: BSc Computer Science
+Experience:
+- Junior Frontend Engineer, Solstice (2025-01 to Present)
+  * Delivered an analytics dashboard using React and Vue, serving 65k daily users.
+  * Delivered a design system using REST APIs, serving 17k daily users.

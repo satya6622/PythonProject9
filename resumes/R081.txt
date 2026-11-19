@@ -1,0 +1,14 @@
+Name: Rosa Petrov
+Title: Lead Full Stack Engineer
+Location: London, UK
+Summary: Lead Full Stack Engineer with 9+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, Redis, CI/CD, TypeScript, MongoDB
+Education: MSc Computer Science
+Experience:
+- Lead Full Stack Engineer, Pixel&Co (2022-10 to Present)
+  * Delivered an analytics dashboard using Node.js, serving 72k daily users.
+  * Delivered the checkout flow using Redis, reducing incidents by 25%.
+- Senior Software Engineer, Orbital (2017-10 to 2022-08)
+  * Delivered an analytics dashboard using JavaScript, cutting latency by 75%.
+  * Delivered a customer portal using JavaScript and Node.js, reducing load time by 53%.
+  * Delivered an analytics dashboard using Redis, improving conversion by 70%.

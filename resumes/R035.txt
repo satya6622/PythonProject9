@@ -1,0 +1,13 @@
+Name: Alma Cohen
+Title: Senior Python Developer
+Location: London, UK
+Summary: Senior Python Developer with 6+ years building backend systems.
+Skills: Python, SQL, REST APIs, FastAPI, AWS, Kubernetes, Docker, Flask
+Education: Diploma in Software Engineering
+Experience:
+- Senior Python Developer, Cobalt (2024-03 to Present)
+  * Delivered an internal billing service using Flask and AWS, improving conversion by 19%.
+  * Delivered a payments API using Kubernetes, cutting latency by 44%.
+- Python Developer, Quantix (2021-03 to 2024-03)
+  * Delivered an order-processing service using Kubernetes, boosting accuracy by 65%.
+  * Delivered a notification platform using Flask and SQL, reducing incidents by 52%.

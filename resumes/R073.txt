@@ -1,0 +1,16 @@
+Name: Arjun Petrov
+Title: Lead DevOps Engineer
+Location: Toronto, CA
+Summary: Lead DevOps Engineer with 10+ years building devops systems.
+Skills: Docker, Linux, CI/CD, GCP, Git, Python, Go, AWS, Microservices
+Education: B.Tech Computer Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Lead DevOps Engineer, Vertex AI (2022-10 to Present)
+  * Delivered a multi-region platform using AWS, reducing load time by 74%.
+  * Delivered an autoscaling cluster using CI/CD and AWS, reducing load time by 30%.
+  * Delivered the deployment pipeline using Linux, saving $45k per year.
+- Senior Site Reliability Engineer, Quantix (2015-11 to 2022-01)
+  * Delivered an autoscaling cluster using Git and Linux, reducing incidents by 74%.
+  * Delivered a multi-region platform using Python and Microservices, reducing incidents by 20%.
+  * Delivered the deployment pipeline using Python, reducing incidents by 73%.

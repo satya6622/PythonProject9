@@ -1,0 +1,22 @@
+Name: Diego Okafor
+Title: Senior Frontend Engineer
+Location: Bengaluru, IN
+Summary: Senior Frontend Engineer with 6+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Redux, Angular, Docker
+Education: B.Tech Computer Engineering
+Experience:
+- Senior Frontend Engineer, Meridian (2025-04 to Present)
+  * Delivered a design system using Docker and HTML/CSS, reducing incidents by 69%.
+  * Delivered an analytics dashboard using Docker, cutting latency by 12%.
+  * Delivered an analytics dashboard using Docker and HTML/CSS, serving 78k daily users.
+- Web Developer, Bluepeak (2023-12 to 2025-04)
+  * Delivered the checkout flow using React, cutting latency by 70%.
+  * Delivered a customer portal using Redux and React, reducing load time by 27%.
+- Junior UI Engineer, Cobalt (2022-10 to 2023-12)
+  * Delivered a design system using Angular, reducing incidents by 28%.
+  * Delivered the checkout flow using Docker and HTML/CSS, saving $65k per year.
+  * Delivered the checkout flow using HTML/CSS and Angular, improving conversion by 69%.
+- Junior Frontend Engineer, Bluepeak (2020-12 to 2022-09)
+  * Delivered an analytics dashboard using JavaScript and Angular, reducing incidents by 34%.
+  * Delivered a customer portal using HTML/CSS, serving 73k daily users.
+  * Delivered a design system using HTML/CSS and Angular, serving 25k daily users.

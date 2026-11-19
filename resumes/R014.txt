@@ -1,0 +1,17 @@
+Name: Liam Garcia
+Title: Senior UI Engineer
+Location: Remote
+Summary: Senior UI Engineer with 7+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Docker, Testing, AWS, Git, Redux, Next.js
+Education: MSc Computer Science
+Experience:
+- Senior UI Engineer, Meridian (2025-02 to Present)
+  * Delivered a customer portal using HTML/CSS and Git, reducing incidents by 24%.
+  * Delivered the checkout flow using Testing and React, reducing incidents by 59%.
+  * Delivered a design system using Redux and Docker, boosting accuracy by 58%.
+- UI Engineer, Nimbus Labs (2023-01 to 2025-01)
+  * Delivered the checkout flow using AWS, boosting accuracy by 54%.
+  * Delivered the checkout flow using JavaScript, cutting latency by 20%.
+- Junior Frontend Engineer, Acme Corp (2020-04 to 2023-01)
+  * Delivered an analytics dashboard using Next.js, boosting accuracy by 42%.
+  * Delivered the checkout flow using React, improving conversion by 18%.

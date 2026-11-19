@@ -1,0 +1,12 @@
+Name: Priya Nair
+Title: Machine Learning Engineer
+Location: Bengaluru, IN
+Summary: ML engineer with 5+ years in NLP and forecasting.
+Skills: Python, PyTorch, Machine Learning, NLP, Pandas, SQL, Docker
+Education: MSc Computer Science
+Experience:
+- Machine Learning Engineer, Vertex AI (2023-07 to Present)
+  * Shipped an NLP ranking model with PyTorch, boosting accuracy by 21%.
+  * Built Pandas and SQL pipelines serving 80k daily predictions.
+- Data Scientist, Quantix (2021-01 to 2023-06)
+  * Developed a Python forecasting model saving $400k per year.

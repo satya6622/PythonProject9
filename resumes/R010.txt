@@ -1,0 +1,19 @@
+Name: Iris Ali
+Title: Platform Engineer
+Location: Toronto, CA
+Summary: Platform Engineer with 4+ years building devops systems.
+Skills: Docker, Linux, CI/CD, GCP, Go, Azure, Kubernetes, Microservices, Python
+Education: B.Tech Computer Engineering
+Certifications: CKA
+Experience:
+- Platform Engineer, Cobalt (2025-12 to Present)
+  * Delivered an autoscaling cluster using Docker and CI/CD, saving $78k per year.
+  * Delivered the deployment pipeline using CI/CD and Kubernetes, reducing incidents by 74%.
+- Junior Site Reliability Engineer, Kestrel (2024-07 to 2025-10)
+  * Delivered the observability stack using Microservices, reducing load time by 52%.
+  * Delivered the deployment pipeline using Azure and Microservices, boosting accuracy by 77%.
+  * Delivered the observability stack using Microservices and Azure, cutting latency by 78%.
+- Junior Site Reliability Engineer, Meridian (2022-06 to 2024-05)
+  * Delivered a multi-region platform using Microservices, reducing incidents by 42%.
+  * Delivered the deployment pipeline using Go and Microservices, serving 64k daily users.
+  * Delivered a multi-region platform using Microservices, saving $27k per year.

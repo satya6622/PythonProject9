@@ -1,0 +1,14 @@
+Name: Samir Ivanov
+Title: Lead DevOps Engineer
+Location: Bengaluru, IN
+Summary: Lead DevOps Engineer with 10+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Python, Git, Go
+Education: BSc Computer Science
+Certifications: CKA
+Experience:
+- Lead DevOps Engineer, Northwind (2021-05 to Present)
+  * Delivered the deployment pipeline using Python and Git, saving $52k per year.
+  * Delivered a multi-region platform using Linux and CI/CD, reducing load time by 15%.
+- Senior DevOps Engineer, Orbital (2016-04 to 2021-03)
+  * Delivered the observability stack using Python and Linux, serving 54k daily users.
+  * Delivered the observability stack using Linux, saving $42k per year.

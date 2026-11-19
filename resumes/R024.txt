@@ -1,0 +1,16 @@
+Name: Andre Murphy
+Title: Site Reliability Engineer
+Location: Remote
+Summary: Site Reliability Engineer with 2+ years building devops systems.
+Skills: Docker, Linux, CI/CD, AWS, Git, Terraform, Python, Go, Kubernetes
+Education: Diploma in Software Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Site Reliability Engineer, Bluepeak (2025-10 to Present)
+  * Delivered the observability stack using Docker and CI/CD, serving 38k daily users.
+  * Delivered an autoscaling cluster using Kubernetes and Python, improving conversion by 34%.
+  * Delivered an autoscaling cluster using Kubernetes and Terraform, reducing incidents by 45%.
+- Junior Platform Engineer, Solstice (2024-10 to 2025-10)
+  * Delivered the observability stack using Linux and Terraform, boosting accuracy by 47%.
+  * Delivered an autoscaling cluster using Terraform, reducing incidents by 60%.
+  * Delivered the observability stack using Go and Git, improving conversion by 17%.

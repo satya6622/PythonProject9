@@ -1,0 +1,16 @@
+Name: John Carter
+Title: Senior Frontend Engineer
+Location: Austin, TX
+Summary: Senior frontend engineer specialising in React and TypeScript.
+Skills: React, TypeScript, JavaScript, Redux, GraphQL, AWS, Testing, HTML/CSS
+Education: BSc Computer Science
+Experience:
+- Senior Frontend Engineer, Brightwave (2021-02 to Present)
+  * Led migration of the checkout flow to React and TypeScript, reducing load time by 45%.
+  * Introduced GraphQL and Redux Toolkit across 3 squads, cutting API calls by 38%.
+  * Deployed micro-frontends on AWS, serving 120k daily users.
+- Frontend Engineer, Nimbus Labs (2018-02 to 2021-01)
+  * Built a React analytics dashboard with Redux and Jest tests, improving report adoption by 60%.
+  * Mentored 2 junior developers.
+- Web Developer, Pixel&Co (2015-03 to 2018-01)
+  * Built JavaScript and HTML/CSS marketing sites, improving conversion by 22%.

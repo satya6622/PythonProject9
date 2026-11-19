@@ -1,0 +1,23 @@
+Name: Jade Khan
+Title: Python Developer
+Location: Austin, TX
+Summary: Python Developer with 4+ years building backend systems.
+Skills: Python, SQL, REST APIs, Flask, PostgreSQL, AWS, Kubernetes
+Education: MSc Computer Science
+Certifications: Certified Scrum Master
+Experience:
+- Python Developer, Orbital (2026-03 to Present)
+  * Delivered a payments API using SQL and REST APIs, cutting latency by 50%.
+  * Delivered a notification platform using REST APIs, reducing load time by 18%.
+- Junior Python Developer, Solstice (2025-04 to 2026-03)
+  * Delivered an internal billing service using Python and Kubernetes, reducing load time by 44%.
+  * Delivered a payments API using Kubernetes, saving $74k per year.
+  * Delivered a payments API using Flask, cutting latency by 50%.
+- Junior Python Developer, Meridian (2024-02 to 2025-04)
+  * Delivered a payments API using SQL and Flask, serving 19k daily users.
+  * Delivered an order-processing service using Flask, improving conversion by 22%.
+  * Delivered an order-processing service using Flask, serving 21k daily users.
+- Junior Backend Engineer, Kestrel (2022-01 to 2023-05)
+  * Delivered an internal billing service using AWS and PostgreSQL, improving conversion by 37%.
+  * Delivered a notification platform using Python, cutting latency by 31%.
+  * Delivered a notification platform using AWS, reducing load time by 33%.

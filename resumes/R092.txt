@@ -1,0 +1,14 @@
+Name: Anika Silva
+Title: Senior Full Stack Engineer
+Location: Toronto, CA
+Summary: Senior Full Stack Engineer with 6+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, REST APIs, AWS, MongoDB
+Education: B.Tech Computer Engineering
+Experience:
+- Senior Full Stack Engineer, Lumen (2022-09 to Present)
+  * Delivered the checkout flow using AWS, cutting latency by 27%.
+  * Delivered a design system using SQL and MongoDB, boosting accuracy by 57%.
+  * Delivered a design system using Node.js and AWS, serving 25k daily users.
+- Full Stack Engineer, Tidal (2020-10 to 2022-07)
+  * Delivered an analytics dashboard using JavaScript, boosting accuracy by 38%.
+  * Delivered a customer portal using AWS, reducing incidents by 68%.

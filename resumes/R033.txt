@@ -1,0 +1,21 @@
+Name: Kofi Moreau
+Title: Senior Full Stack Engineer
+Location: Bengaluru, IN
+Summary: Senior Full Stack Engineer with 7+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, Docker, PostgreSQL, REST APIs, MongoDB
+Education: MSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Senior Full Stack Engineer, Nimbus Labs (2025-08 to Present)
+  * Delivered an analytics dashboard using REST APIs and SQL, saving $74k per year.
+  * Delivered a customer portal using MongoDB, boosting accuracy by 23%.
+  * Delivered a customer portal using MongoDB and JavaScript, boosting accuracy by 80%.
+- Software Engineer, Lumen (2023-05 to 2025-06)
+  * Delivered a design system using Docker, reducing incidents by 70%.
+  * Delivered a design system using SQL, saving $70k per year.
+- Junior Software Engineer, Vertex AI (2021-02 to 2023-03)
+  * Delivered an analytics dashboard using JavaScript and Node.js, reducing load time by 62%.
+  * Delivered a design system using MongoDB, reducing incidents by 23%.
+- Junior Software Engineer, Acme Corp (2018-09 to 2020-05)
+  * Delivered a customer portal using JavaScript and REST APIs, reducing incidents by 28%.
+  * Delivered a design system using Node.js, saving $23k per year.

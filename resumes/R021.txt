@@ -1,0 +1,15 @@
+Name: Mateo Sato
+Title: Lead Python Developer
+Location: Toronto, CA
+Summary: Lead Python Developer with 9+ years building backend systems.
+Skills: Python, SQL, REST APIs, AWS, CI/CD, PostgreSQL, Flask
+Education: BSc Information Technology
+Certifications: CKA
+Experience:
+- Lead Python Developer, Meridian (2022-02 to Present)
+  * Delivered an internal billing service using Python, improving conversion by 62%.
+  * Delivered an order-processing service using Flask and AWS, boosting accuracy by 21%.
+- Senior Backend Engineer, Quantix (2017-12 to 2022-02)
+  * Delivered a notification platform using AWS, serving 31k daily users.
+  * Delivered a notification platform using PostgreSQL, improving conversion by 40%.
+  * Delivered an order-processing service using AWS and CI/CD, cutting latency by 47%.

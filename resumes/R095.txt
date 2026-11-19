@@ -1,0 +1,16 @@
+Name: Zoe Singh
+Title: Senior Platform Engineer
+Location: Bengaluru, IN
+Summary: Senior Platform Engineer with 5+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Terraform, Microservices, Kubernetes, Azure, Go, Python
+Education: BSc Information Technology
+Certifications: AWS Certified Developer
+Experience:
+- Senior Platform Engineer, Stackhouse (2024-06 to Present)
+  * Delivered an autoscaling cluster using Azure and Go, reducing incidents by 74%.
+  * Delivered an autoscaling cluster using CI/CD, serving 28k daily users.
+  * Delivered an autoscaling cluster using CI/CD and Linux, reducing incidents by 39%.
+- Site Reliability Engineer, Cobalt (2021-11 to 2024-06)
+  * Delivered the observability stack using Docker, cutting latency by 27%.
+  * Delivered the deployment pipeline using Microservices and Azure, improving conversion by 74%.
+  * Delivered the deployment pipeline using Linux, boosting accuracy by 65%.

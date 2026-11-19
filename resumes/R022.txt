@@ -1,0 +1,15 @@
+Name: Maria Nguyen
+Title: Lead Data Scientist
+Location: Bengaluru, IN
+Summary: Lead Data Scientist with 10+ years building data systems.
+Skills: Python, Pandas, Machine Learning, SQL, LLMs, Data Analysis, PyTorch
+Education: B.Tech Computer Engineering
+Experience:
+- Lead Data Scientist, Cobalt (2020-06 to Present)
+  * Delivered a forecasting pipeline using SQL, reducing incidents by 49%.
+  * Delivered a fraud-detection model using Pandas and Data Analysis, saving $50k per year.
+  * Delivered a fraud-detection model using Data Analysis, reducing load time by 32%.
+- Senior Data Analyst, Paperplane (2016-04 to 2020-04)
+  * Delivered a forecasting pipeline using Pandas, serving 25k daily users.
+  * Delivered a fraud-detection model using PyTorch, reducing load time by 46%.
+  * Delivered a forecasting pipeline using LLMs, reducing load time by 18%.

@@ -1,0 +1,22 @@
+Name: Marcus Ivanov
+Title: Python Developer
+Location: Bengaluru, IN
+Summary: Python Developer with 4+ years building backend systems.
+Skills: Python, SQL, REST APIs, Django, Kafka, Kubernetes, Flask, Redis
+Education: BSc Mathematics
+Certifications: Certified Scrum Master
+Experience:
+- Python Developer, Northwind (2025-12 to Present)
+  * Delivered a payments API using Kubernetes, saving $80k per year.
+  * Delivered a payments API using Django, serving 70k daily users.
+  * Delivered a notification platform using Django, serving 51k daily users.
+- Junior Backend Engineer, Vertex AI (2024-11 to 2025-12)
+  * Delivered an order-processing service using Kafka, improving conversion by 40%.
+  * Delivered an internal billing service using Flask and Python, cutting latency by 23%.
+  * Delivered an internal billing service using Flask, cutting latency by 31%.
+- Junior Python Developer, Tidal (2024-05 to 2024-10)
+  * Delivered a payments API using SQL and Kafka, cutting latency by 52%.
+  * Delivered a payments API using SQL, improving conversion by 30%.
+- Junior Backend Engineer, Quantix (2023-02 to 2024-03)
+  * Delivered an order-processing service using SQL, serving 46k daily users.
+  * Delivered a notification platform using Django, reducing incidents by 15%.

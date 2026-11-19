@@ -1,0 +1,15 @@
+Name: Emma Garcia
+Title: Senior Data Scientist
+Location: Bengaluru, IN
+Summary: Senior Data Scientist with 6+ years building data systems.
+Skills: Python, Pandas, Machine Learning, Deep Learning, AWS, TensorFlow
+Education: BSc Information Technology
+Experience:
+- Senior Data Scientist, Brightwave (2023-06 to Present)
+  * Delivered a churn-prediction model using Machine Learning, serving 67k daily users.
+  * Delivered a forecasting pipeline using TensorFlow, reducing load time by 18%.
+  * Delivered a recommendation engine using Deep Learning and Python, serving 64k daily users.
+- Data Analyst, Orbital (2020-06 to 2023-06)
+  * Delivered a recommendation engine using Machine Learning, serving 54k daily users.
+  * Delivered a recommendation engine using Deep Learning, reducing load time by 20%.
+  * Delivered a fraud-detection model using AWS, improving conversion by 65%.

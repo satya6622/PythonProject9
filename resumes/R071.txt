@@ -1,0 +1,22 @@
+Name: Jade Okafor
+Title: Backend Engineer
+Location: London, UK
+Summary: Backend Engineer with 5+ years building backend systems.
+Skills: Java, Spring, SQL, Kubernetes, Microservices, MySQL, AWS, Agile
+Education: BSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Backend Engineer, Fathom (2026-01 to Present)
+  * Delivered a payments API using Agile and Java, cutting latency by 76%.
+  * Delivered a notification platform using Microservices and Spring, serving 47k daily users.
+- Junior Backend Engineer, Paperplane (2024-10 to 2026-01)
+  * Delivered a payments API using Microservices and AWS, cutting latency by 79%.
+  * Delivered an internal billing service using Spring and Microservices, serving 31k daily users.
+- Junior Backend Engineer, Brightwave (2023-06 to 2024-08)
+  * Delivered an internal billing service using Kubernetes, cutting latency by 71%.
+  * Delivered an order-processing service using Agile and Spring, reducing incidents by 80%.
+  * Delivered an order-processing service using SQL and Spring, saving $45k per year.
+- Junior Java Developer, Pixel&Co (2022-02 to 2023-04)
+  * Delivered a notification platform using SQL and Agile, boosting accuracy by 46%.
+  * Delivered an internal billing service using Kubernetes and Microservices, improving conversion by 62%.
+  * Delivered a notification platform using Agile, reducing incidents by 36%.

@@ -1,0 +1,15 @@
+Name: Diego Lopez
+Title: Backend Engineer
+Location: Bengaluru, IN
+Summary: Backend Engineer with 4+ years building backend systems.
+Skills: Python, SQL, REST APIs, Git, Docker, FastAPI, Flask
+Education: Diploma in Software Engineering
+Certifications: CKA
+Experience:
+- Backend Engineer, Nimbus Labs (2025-03 to Present)
+  * Delivered an order-processing service using FastAPI and Git, cutting latency by 37%.
+  * Delivered a notification platform using Docker and Flask, improving conversion by 33%.
+  * Delivered a payments API using Flask and REST APIs, reducing incidents by 55%.
+- Junior Backend Engineer, Vertex AI (2023-04 to 2025-03)
+  * Delivered a notification platform using Git and FastAPI, serving 60k daily users.
+  * Delivered a payments API using FastAPI, cutting latency by 72%.

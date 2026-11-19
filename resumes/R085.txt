@@ -1,0 +1,16 @@
+Name: Ravi Chen
+Title: Senior UI Engineer
+Location: Toronto, CA
+Summary: Senior UI Engineer with 6+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Docker, Redux, Tailwind, Vue, Git
+Education: BSc Computer Science
+Certifications: Certified Scrum Master
+Experience:
+- Senior UI Engineer, Solstice (2024-03 to Present)
+  * Delivered a design system using React and Tailwind, serving 16k daily users.
+  * Delivered an analytics dashboard using Redux, serving 61k daily users.
+  * Delivered a customer portal using JavaScript and Redux, boosting accuracy by 42%.
+- UI Engineer, Lumen (2021-04 to 2024-01)
+  * Delivered a customer portal using JavaScript, boosting accuracy by 22%.
+  * Delivered a customer portal using Vue and HTML/CSS, boosting accuracy by 54%.
+  * Delivered a design system using React, reducing incidents by 45%.

@@ -1,0 +1,16 @@
+Name: Ana Ivanov
+Title: Python Developer
+Location: London, UK
+Summary: Python Developer with 4+ years building backend systems.
+Skills: Python, SQL, REST APIs, PostgreSQL, Django, Kubernetes, Redis
+Education: B.Tech Computer Engineering
+Certifications: CKA
+Experience:
+- Python Developer, Pixel&Co (2025-02 to Present)
+  * Delivered a notification platform using Python, improving conversion by 34%.
+  * Delivered a notification platform using Python, serving 67k daily users.
+  * Delivered an internal billing service using PostgreSQL and Django, serving 26k daily users.
+- Junior Backend Engineer, Paperplane (2022-09 to 2025-02)
+  * Delivered a payments API using PostgreSQL, serving 52k daily users.
+  * Delivered a notification platform using REST APIs and PostgreSQL, reducing incidents by 64%.
+  * Delivered an internal billing service using PostgreSQL and Kubernetes, cutting latency by 65%.

@@ -1,0 +1,17 @@
+Name: Kofi Rossi
+Title: Platform Engineer
+Location: Bengaluru, IN
+Summary: Platform Engineer with 2+ years building devops systems.
+Skills: Docker, Linux, CI/CD, GCP, Terraform, Azure, Microservices, Git, Go
+Education: BSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Platform Engineer, Tidal (2026-02 to Present)
+  * Delivered the observability stack using Linux, improving conversion by 67%.
+  * Delivered an autoscaling cluster using Linux, reducing incidents by 64%.
+- Junior Site Reliability Engineer, Fathom (2025-04 to 2026-02)
+  * Delivered a multi-region platform using Azure and Docker, cutting latency by 59%.
+  * Delivered a multi-region platform using Azure, reducing incidents by 18%.
+- Junior DevOps Engineer, Lumen (2024-10 to 2025-04)
+  * Delivered the observability stack using Azure, serving 78k daily users.
+  * Delivered an autoscaling cluster using CI/CD and GCP, cutting latency by 14%.

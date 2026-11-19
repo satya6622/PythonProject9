@@ -1,0 +1,25 @@
+Name: Rosa Santos
+Title: Senior Backend Engineer
+Location: Toronto, CA
+Summary: Senior Backend Engineer with 7+ years building backend systems.
+Skills: Python, SQL, REST APIs, Kubernetes, FastAPI, Kafka, Microservices, Django, PostgreSQL
+Education: MSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Senior Backend Engineer, Meridian (2025-01 to Present)
+  * Delivered a notification platform using Microservices and FastAPI, boosting accuracy by 65%.
+  * Delivered a notification platform using Django, reducing load time by 18%.
+  * Delivered a payments API using SQL, boosting accuracy by 17%.
+- Python Developer, Helio Systems (2023-12 to 2025-01)
+  * Delivered a notification platform using Python, reducing load time by 15%.
+  * Delivered an order-processing service using Kafka and Microservices, cutting latency by 21%.
+- Junior Backend Engineer, Tidal (2022-04 to 2023-11)
+  * Delivered a payments API using FastAPI, boosting accuracy by 74%.
+  * Delivered an internal billing service using REST APIs and FastAPI, reducing incidents by 31%.
+  * Delivered an internal billing service using Microservices, serving 46k daily users.
+- Junior Python Developer, Lumen (2021-04 to 2022-03)
+  * Delivered an order-processing service using Microservices and REST APIs, cutting latency by 74%.
+  * Delivered a notification platform using Microservices and REST APIs, improving conversion by 47%.
+- Junior Python Developer, Acme Corp (2019-11 to 2021-04)
+  * Delivered a notification platform using FastAPI and Kafka, reducing incidents by 43%.
+  * Delivered an internal billing service using Kafka and SQL, serving 56k daily users.

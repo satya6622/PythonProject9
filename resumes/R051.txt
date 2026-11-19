@@ -1,0 +1,19 @@
+Name: Layla Moreau
+Title: UI Engineer
+Location: Austin, TX
+Summary: UI Engineer with 4+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Docker, Agile, AWS, Git
+Education: Diploma in Software Engineering
+Experience:
+- UI Engineer, Kestrel (2025-06 to Present)
+  * Delivered an analytics dashboard using JavaScript, reducing incidents by 22%.
+  * Delivered a design system using Agile, cutting latency by 45%.
+  * Delivered a design system using React, boosting accuracy by 76%.
+- Junior Web Developer, Pixel&Co (2023-09 to 2025-04)
+  * Delivered an analytics dashboard using Agile, saving $40k per year.
+  * Delivered a design system using HTML/CSS, serving 77k daily users.
+  * Delivered the checkout flow using Agile and HTML/CSS, reducing load time by 42%.
+- Junior Web Developer, Solstice (2022-08 to 2023-09)
+  * Delivered the checkout flow using Git, boosting accuracy by 74%.
+  * Delivered a design system using Agile, improving conversion by 41%.
+  * Delivered a customer portal using HTML/CSS, boosting accuracy by 58%.

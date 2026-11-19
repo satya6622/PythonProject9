@@ -1,0 +1,17 @@
+Name: Carlos Walker
+Title: UI Engineer
+Location: Remote
+Summary: UI Engineer with 5+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Next.js, Agile, REST APIs
+Education: BSc Computer Science
+Certifications: CKA
+Experience:
+- UI Engineer, Kestrel (2025-04 to Present)
+  * Delivered a design system using REST APIs and HTML/CSS, reducing incidents by 42%.
+  * Delivered a customer portal using Next.js, improving conversion by 32%.
+- Junior Web Developer, Northwind (2023-07 to 2025-03)
+  * Delivered an analytics dashboard using HTML/CSS, cutting latency by 70%.
+  * Delivered the checkout flow using Agile and HTML/CSS, boosting accuracy by 80%.
+- Junior Frontend Engineer, Cobalt (2022-02 to 2023-07)
+  * Delivered the checkout flow using HTML/CSS, serving 37k daily users.
+  * Delivered a customer portal using Agile, boosting accuracy by 78%.

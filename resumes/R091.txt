@@ -1,0 +1,19 @@
+Name: Jade Murphy
+Title: Senior Full Stack Engineer
+Location: Berlin, DE
+Summary: Senior Full Stack Engineer with 5+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, TypeScript, PostgreSQL, CI/CD
+Education: BSc Information Technology
+Certifications: Certified Scrum Master
+Experience:
+- Senior Full Stack Engineer, Kestrel (2025-05 to Present)
+  * Delivered a customer portal using SQL, reducing load time by 25%.
+  * Delivered a design system using TypeScript and PostgreSQL, serving 49k daily users.
+  * Delivered the checkout flow using TypeScript and CI/CD, serving 74k daily users.
+- Software Engineer, Solstice (2023-04 to 2025-05)
+  * Delivered a design system using JavaScript and SQL, reducing incidents by 67%.
+  * Delivered a customer portal using JavaScript, reducing incidents by 36%.
+- Junior Software Engineer, Quantix (2021-08 to 2023-04)
+  * Delivered the checkout flow using PostgreSQL and SQL, boosting accuracy by 72%.
+  * Delivered a customer portal using PostgreSQL, reducing incidents by 23%.
+  * Delivered a customer portal using Node.js, cutting latency by 32%.

@@ -1,0 +1,15 @@
+Name: Leila Larsen
+Title: Full Stack Engineer
+Location: Remote
+Summary: Full Stack Engineer with 3+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, Redis, AWS, PostgreSQL, CI/CD, REST APIs, GraphQL
+Education: BSc Information Technology
+Certifications: AWS Certified Developer
+Experience:
+- Full Stack Engineer, Cobalt (2025-01 to Present)
+  * Delivered the checkout flow using AWS, cutting latency by 56%.
+  * Delivered the checkout flow using GraphQL and SQL, cutting latency by 35%.
+  * Delivered a customer portal using Redis and Node.js, cutting latency by 18%.
+- Junior Software Engineer, Quantix (2023-11 to 2025-01)
+  * Delivered the checkout flow using JavaScript, serving 20k daily users.
+  * Delivered the checkout flow using GraphQL and PostgreSQL, improving conversion by 51%.

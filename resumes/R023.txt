@@ -1,0 +1,20 @@
+Name: Maya Cohen
+Title: Senior Data Scientist
+Location: London, UK
+Summary: Senior Data Scientist with 8+ years building data systems.
+Skills: Python, Pandas, Machine Learning, SQL, AWS, Docker, LLMs
+Education: BSc Information Technology
+Certifications: CKA
+Experience:
+- Senior Data Scientist, Bluepeak (2025-01 to Present)
+  * Delivered a fraud-detection model using Python, improving conversion by 75%.
+  * Delivered a fraud-detection model using AWS and Python, boosting accuracy by 25%.
+  * Delivered a fraud-detection model using Machine Learning, reducing incidents by 58%.
+- Data Scientist, Stackhouse (2022-03 to 2024-11)
+  * Delivered a churn-prediction model using SQL and Docker, reducing load time by 28%.
+  * Delivered a recommendation engine using Pandas and Docker, serving 58k daily users.
+  * Delivered a churn-prediction model using SQL, serving 63k daily users.
+- Junior ML Engineer, Fathom (2018-08 to 2021-06)
+  * Delivered a forecasting pipeline using AWS, serving 50k daily users.
+  * Delivered a churn-prediction model using LLMs and Python, improving conversion by 72%.
+  * Delivered a churn-prediction model using SQL and Docker, saving $51k per year.

@@ -1,0 +1,15 @@
+Name: Andre Ivanov
+Title: Python Developer
+Location: Austin, TX
+Summary: Python Developer with 2+ years building backend systems.
+Skills: Python, SQL, REST APIs, Kafka, AWS, Microservices, PostgreSQL
+Education: Diploma in Software Engineering
+Certifications: Certified Scrum Master
+Experience:
+- Python Developer, Bluepeak (2025-10 to Present)
+  * Delivered an order-processing service using PostgreSQL, improving conversion by 38%.
+  * Delivered an order-processing service using PostgreSQL, cutting latency by 57%.
+- Junior Python Developer, Paperplane (2024-06 to 2025-10)
+  * Delivered a notification platform using REST APIs and Kafka, saving $35k per year.
+  * Delivered an internal billing service using PostgreSQL and REST APIs, cutting latency by 18%.
+  * Delivered an internal billing service using REST APIs and Microservices, serving 56k daily users.

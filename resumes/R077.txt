@@ -1,0 +1,23 @@
+Name: Maya Dubois
+Title: Senior ML Engineer
+Location: Berlin, DE
+Summary: Senior ML Engineer with 7+ years building data systems.
+Skills: Python, Pandas, Machine Learning, PyTorch, TensorFlow, Data Analysis, Docker, Spark
+Education: BSc Mathematics
+Certifications: Certified Scrum Master
+Experience:
+- Senior ML Engineer, Fathom (2025-06 to Present)
+  * Delivered a churn-prediction model using PyTorch, saving $23k per year.
+  * Delivered a recommendation engine using Machine Learning and Spark, reducing load time by 25%.
+  * Delivered a recommendation engine using Pandas and Data Analysis, cutting latency by 75%.
+- ML Engineer, Meridian (2023-12 to 2025-06)
+  * Delivered a forecasting pipeline using Data Analysis and Docker, reducing load time by 41%.
+  * Delivered a fraud-detection model using PyTorch and TensorFlow, reducing incidents by 53%.
+- Junior Data Scientist, Solstice (2021-11 to 2023-10)
+  * Delivered a fraud-detection model using TensorFlow and Spark, improving conversion by 48%.
+  * Delivered a forecasting pipeline using Data Analysis, cutting latency by 80%.
+  * Delivered a recommendation engine using Spark, boosting accuracy by 31%.
+- Junior Data Analyst, Brightwave (2019-11 to 2021-11)
+  * Delivered a forecasting pipeline using PyTorch and Spark, saving $32k per year.
+  * Delivered a recommendation engine using Machine Learning, saving $75k per year.
+  * Delivered a forecasting pipeline using Spark and PyTorch, reducing load time by 76%.

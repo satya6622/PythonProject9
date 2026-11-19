@@ -1,0 +1,19 @@
+Name: Iris Novak
+Title: Python Developer
+Location: Remote
+Summary: Python Developer with 3+ years building backend systems.
+Skills: Python, SQL, REST APIs, FastAPI, CI/CD, Docker
+Education: Diploma in Software Engineering
+Experience:
+- Python Developer, Vertex AI (2026-04 to Present)
+  * Delivered a payments API using REST APIs and SQL, saving $54k per year.
+  * Delivered a payments API using Docker, reducing load time by 72%.
+- Junior Backend Engineer, Nimbus Labs (2025-08 to 2026-04)
+  * Delivered a notification platform using CI/CD and FastAPI, boosting accuracy by 60%.
+  * Delivered an internal billing service using FastAPI and Docker, reducing load time by 27%.
+- Junior Python Developer, Bluepeak (2024-12 to 2025-08)
+  * Delivered a payments API using SQL and Python, saving $58k per year.
+  * Delivered a payments API using CI/CD and Docker, reducing incidents by 38%.
+- Junior Backend Engineer, Nimbus Labs (2024-04 to 2024-10)
+  * Delivered a notification platform using CI/CD, improving conversion by 41%.
+  * Delivered a notification platform using REST APIs, reducing incidents by 80%.

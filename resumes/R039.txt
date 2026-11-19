@@ -1,0 +1,22 @@
+Name: Tara Murphy
+Title: Senior Software Engineer
+Location: Remote
+Summary: Senior Software Engineer with 6+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, TypeScript, Redis, REST APIs, MongoDB
+Education: BSc Mathematics
+Experience:
+- Senior Software Engineer, Solstice (2025-07 to Present)
+  * Delivered the checkout flow using REST APIs, serving 57k daily users.
+  * Delivered the checkout flow using TypeScript, improving conversion by 49%.
+  * Delivered a design system using REST APIs, reducing load time by 62%.
+- Software Engineer, Quantix (2023-09 to 2025-06)
+  * Delivered the checkout flow using REST APIs, improving conversion by 52%.
+  * Delivered an analytics dashboard using Redis, saving $13k per year.
+  * Delivered an analytics dashboard using REST APIs, reducing incidents by 20%.
+- Junior Software Engineer, Helio Systems (2022-04 to 2023-09)
+  * Delivered a design system using Redis and MongoDB, serving 60k daily users.
+  * Delivered a design system using MongoDB and JavaScript, saving $21k per year.
+  * Delivered a design system using JavaScript and MongoDB, improving conversion by 25%.
+- Junior Full Stack Engineer, Ironclad (2020-08 to 2022-02)
+  * Delivered the checkout flow using JavaScript and REST APIs, reducing load time by 54%.
+  * Delivered an analytics dashboard using MongoDB, reducing incidents by 45%.

@@ -1,0 +1,18 @@
+Name: Emma Moreau
+Title: Backend Engineer
+Location: London, UK
+Summary: Backend Engineer with 2+ years building backend systems.
+Skills: Java, Spring, SQL, AWS, Redis, Agile
+Education: BSc Information Technology
+Experience:
+- Backend Engineer, Bluepeak (2026-03 to Present)
+  * Delivered an internal billing service using Java and SQL, saving $22k per year.
+  * Delivered a payments API using Spring, reducing load time by 36%.
+  * Delivered a notification platform using AWS, saving $20k per year.
+- Junior Backend Engineer, Orbital (2025-06 to 2026-01)
+  * Delivered a payments API using AWS and SQL, reducing incidents by 41%.
+  * Delivered an internal billing service using SQL, saving $14k per year.
+- Junior Backend Engineer, Orbital (2024-08 to 2025-06)
+  * Delivered a payments API using SQL, reducing load time by 25%.
+  * Delivered an internal billing service using SQL and Spring, reducing load time by 37%.
+  * Delivered a notification platform using AWS and Java, reducing load time by 29%.

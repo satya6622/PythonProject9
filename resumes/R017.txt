@@ -1,0 +1,23 @@
+Name: Nina Singh
+Title: Senior Backend Engineer
+Location: Berlin, DE
+Summary: Senior Backend Engineer with 8+ years building backend systems.
+Skills: Python, SQL, REST APIs, AWS, CI/CD, Flask
+Education: Diploma in Software Engineering
+Experience:
+- Senior Backend Engineer, Fathom (2025-03 to Present)
+  * Delivered an internal billing service using CI/CD and Flask, boosting accuracy by 17%.
+  * Delivered an order-processing service using REST APIs, serving 72k daily users.
+  * Delivered a payments API using AWS, reducing load time by 55%.
+- Python Developer, Paperplane (2023-09 to 2025-03)
+  * Delivered a notification platform using REST APIs and CI/CD, reducing incidents by 18%.
+  * Delivered a notification platform using CI/CD, reducing load time by 61%.
+  * Delivered an order-processing service using Python and AWS, improving conversion by 22%.
+- Junior Backend Engineer, Kestrel (2021-06 to 2023-08)
+  * Delivered a notification platform using Flask and SQL, reducing incidents by 66%.
+  * Delivered an order-processing service using AWS, improving conversion by 35%.
+  * Delivered an order-processing service using AWS and Flask, cutting latency by 29%.
+- Junior Backend Engineer, Fathom (2017-12 to 2020-09)
+  * Delivered an internal billing service using Flask, cutting latency by 33%.
+  * Delivered an internal billing service using REST APIs, improving conversion by 42%.
+  * Delivered a notification platform using REST APIs and Flask, serving 42k daily users.

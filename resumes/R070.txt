@@ -1,0 +1,19 @@
+Name: Sana Costa
+Title: Backend Engineer
+Location: Toronto, CA
+Summary: Backend Engineer with 3+ years building backend systems.
+Skills: Python, SQL, REST APIs, Django, PostgreSQL, Redis, Git, AWS
+Education: B.Tech Computer Engineering
+Certifications: CKA
+Experience:
+- Backend Engineer, Pixel&Co (2025-12 to Present)
+  * Delivered an order-processing service using Git and SQL, improving conversion by 28%.
+  * Delivered an order-processing service using SQL, reducing incidents by 14%.
+  * Delivered an internal billing service using Git and SQL, reducing load time by 29%.
+- Junior Python Developer, Paperplane (2024-10 to 2025-10)
+  * Delivered an internal billing service using Git, serving 12k daily users.
+  * Delivered a notification platform using Redis, improving conversion by 64%.
+- Junior Backend Engineer, Tidal (2023-03 to 2024-01)
+  * Delivered an order-processing service using Django and AWS, serving 23k daily users.
+  * Delivered a notification platform using Git and PostgreSQL, reducing incidents by 21%.
+  * Delivered an internal billing service using REST APIs, serving 13k daily users.

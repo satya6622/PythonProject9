@@ -1,0 +1,21 @@
+Name: Jade Kim
+Title: Senior Frontend Engineer
+Location: Remote
+Summary: Senior Frontend Engineer with 8+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, GraphQL, Agile, Vue, Docker, Next.js, Git
+Education: BSc Mathematics
+Experience:
+- Senior Frontend Engineer, Pixel&Co (2024-09 to Present)
+  * Delivered an analytics dashboard using HTML/CSS and Next.js, improving conversion by 52%.
+  * Delivered the checkout flow using Docker and Git, boosting accuracy by 53%.
+  * Delivered an analytics dashboard using Docker, boosting accuracy by 44%.
+- Frontend Engineer, Kestrel (2022-04 to 2024-07)
+  * Delivered an analytics dashboard using GraphQL, improving conversion by 14%.
+  * Delivered an analytics dashboard using React, reducing load time by 70%.
+- Junior Frontend Engineer, Nimbus Labs (2020-06 to 2022-03)
+  * Delivered an analytics dashboard using Git and Docker, boosting accuracy by 24%.
+  * Delivered a design system using Next.js, boosting accuracy by 60%.
+  * Delivered a customer portal using Vue, improving conversion by 56%.
+- Junior UI Engineer, Tidal (2019-04 to 2020-06)
+  * Delivered a customer portal using React, reducing incidents by 62%.
+  * Delivered a customer portal using HTML/CSS, saving $49k per year.

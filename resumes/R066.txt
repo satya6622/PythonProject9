@@ -1,0 +1,15 @@
+Name: Maya Sato
+Title: Senior Backend Engineer
+Location: Berlin, DE
+Summary: Senior Backend Engineer with 6+ years building backend systems.
+Skills: Python, SQL, REST APIs, FastAPI, Git, Microservices, Kafka, CI/CD
+Education: MSc Computer Science
+Certifications: CKA
+Experience:
+- Senior Backend Engineer, Acme Corp (2024-02 to Present)
+  * Delivered an order-processing service using CI/CD, reducing incidents by 27%.
+  * Delivered an order-processing service using Kafka and Python, improving conversion by 56%.
+- Backend Engineer, Orbital (2020-06 to 2023-05)
+  * Delivered an order-processing service using Kafka and FastAPI, serving 15k daily users.
+  * Delivered an internal billing service using Python, boosting accuracy by 55%.
+  * Delivered an internal billing service using SQL and Git, reducing incidents by 29%.

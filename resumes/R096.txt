@@ -1,0 +1,17 @@
+Name: Liam Reyes
+Title: Senior Site Reliability Engineer
+Location: Austin, TX
+Summary: Senior Site Reliability Engineer with 6+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Microservices, Python, Kubernetes
+Education: BSc Mathematics
+Experience:
+- Senior Site Reliability Engineer, Fathom (2025-04 to Present)
+  * Delivered an autoscaling cluster using Python, reducing incidents by 70%.
+  * Delivered an autoscaling cluster using Linux and CI/CD, reducing load time by 64%.
+- Site Reliability Engineer, Nimbus Labs (2023-02 to 2025-02)
+  * Delivered the deployment pipeline using Microservices, serving 27k daily users.
+  * Delivered a multi-region platform using Python, serving 78k daily users.
+- Junior DevOps Engineer, Northwind (2021-04 to 2023-02)
+  * Delivered an autoscaling cluster using Microservices, serving 53k daily users.
+  * Delivered the observability stack using Docker, boosting accuracy by 14%.
+  * Delivered the observability stack using Python and Docker, reducing load time by 79%.

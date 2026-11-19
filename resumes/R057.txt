@@ -1,0 +1,23 @@
+Name: Diego Fischer
+Title: Senior Python Developer
+Location: Bengaluru, IN
+Summary: Senior Python Developer with 5+ years building backend systems.
+Skills: Python, SQL, REST APIs, FastAPI, Microservices, AWS, Redis
+Education: BSc Information Technology
+Certifications: Certified Scrum Master
+Experience:
+- Senior Python Developer, Vertex AI (2024-12 to Present)
+  * Delivered an internal billing service using FastAPI and REST APIs, reducing incidents by 78%.
+  * Delivered an order-processing service using SQL and Redis, boosting accuracy by 14%.
+  * Delivered an order-processing service using AWS, improving conversion by 22%.
+- Backend Engineer, Orbital (2024-02 to 2024-12)
+  * Delivered a notification platform using Python, reducing incidents by 61%.
+  * Delivered an internal billing service using FastAPI, reducing incidents by 48%.
+  * Delivered a payments API using FastAPI, serving 33k daily users.
+- Junior Python Developer, Pixel&Co (2022-03 to 2023-05)
+  * Delivered an internal billing service using AWS, cutting latency by 70%.
+  * Delivered a payments API using FastAPI and Microservices, serving 41k daily users.
+  * Delivered an order-processing service using FastAPI and AWS, saving $45k per year.
+- Junior Python Developer, Pixel&Co (2021-01 to 2022-03)
+  * Delivered a notification platform using Microservices and SQL, reducing load time by 67%.
+  * Delivered an order-processing service using Redis, serving 59k daily users.

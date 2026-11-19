@@ -1,0 +1,17 @@
+Name: Maya Haddad
+Title: UI Engineer
+Location: Remote
+Summary: UI Engineer with 2+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Docker, Vue, Redux, Next.js
+Education: BSc Information Technology
+Experience:
+- UI Engineer, Bluepeak (2026-02 to Present)
+  * Delivered a design system using HTML/CSS and Redux, cutting latency by 44%.
+  * Delivered a customer portal using Redux and Docker, serving 49k daily users.
+- Junior Web Developer, Pixel&Co (2025-06 to 2026-02)
+  * Delivered an analytics dashboard using Next.js, saving $49k per year.
+  * Delivered a customer portal using Redux and HTML/CSS, boosting accuracy by 76%.
+- Junior UI Engineer, Nimbus Labs (2024-09 to 2025-06)
+  * Delivered an analytics dashboard using JavaScript, boosting accuracy by 31%.
+  * Delivered a design system using JavaScript and Vue, improving conversion by 26%.
+  * Delivered the checkout flow using Next.js, boosting accuracy by 28%.

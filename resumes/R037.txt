@@ -1,0 +1,18 @@
+Name: Tomas Singh
+Title: Senior Software Engineer
+Location: Berlin, DE
+Summary: Senior Software Engineer with 8+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, PostgreSQL, TypeScript, MongoDB
+Education: MSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Senior Software Engineer, Meridian (2024-04 to Present)
+  * Delivered a design system using JavaScript, cutting latency by 50%.
+  * Delivered the checkout flow using SQL, cutting latency by 23%.
+  * Delivered an analytics dashboard using PostgreSQL and TypeScript, reducing load time by 50%.
+- Full Stack Engineer, Quantix (2020-09 to 2024-04)
+  * Delivered the checkout flow using PostgreSQL, boosting accuracy by 40%.
+  * Delivered an analytics dashboard using JavaScript, improving conversion by 22%.
+- Junior Software Engineer, Orbital (2018-11 to 2020-09)
+  * Delivered a customer portal using JavaScript and Node.js, serving 67k daily users.
+  * Delivered the checkout flow using JavaScript and MongoDB, reducing incidents by 66%.

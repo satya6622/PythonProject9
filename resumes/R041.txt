@@ -1,0 +1,23 @@
+Name: Olivia Fischer
+Title: Java Developer
+Location: Berlin, DE
+Summary: Java Developer with 4+ years building backend systems.
+Skills: Java, Spring, SQL, Agile, Git, MySQL, Kafka, Microservices, Docker
+Education: BSc Information Technology
+Certifications: Certified Scrum Master
+Experience:
+- Java Developer, Solstice (2026-01 to Present)
+  * Delivered a notification platform using Java and MySQL, boosting accuracy by 50%.
+  * Delivered an order-processing service using Microservices and Spring, boosting accuracy by 41%.
+  * Delivered a payments API using Microservices and MySQL, improving conversion by 65%.
+- Junior Backend Engineer, Tidal (2025-03 to 2026-01)
+  * Delivered a payments API using Docker, boosting accuracy by 79%.
+  * Delivered a payments API using MySQL, boosting accuracy by 37%.
+  * Delivered a notification platform using Microservices, saving $18k per year.
+- Junior Backend Engineer, Fathom (2023-12 to 2025-02)
+  * Delivered a notification platform using Agile, saving $56k per year.
+  * Delivered a notification platform using Agile, improving conversion by 23%.
+  * Delivered an order-processing service using Java, reducing load time by 32%.
+- Junior Java Developer, Solstice (2022-12 to 2023-12)
+  * Delivered an order-processing service using Microservices, boosting accuracy by 13%.
+  * Delivered an internal billing service using Microservices and MySQL, reducing incidents by 47%.

@@ -1,0 +1,21 @@
+Name: Kofi Kim
+Title: Senior Python Developer
+Location: Berlin, DE
+Summary: Senior Python Developer with 6+ years building backend systems.
+Skills: Python, SQL, REST APIs, CI/CD, PostgreSQL, FastAPI
+Education: B.Tech Computer Engineering
+Certifications: CKA
+Experience:
+- Senior Python Developer, Vertex AI (2025-09 to Present)
+  * Delivered an order-processing service using PostgreSQL, serving 57k daily users.
+  * Delivered a notification platform using SQL, serving 48k daily users.
+  * Delivered an order-processing service using CI/CD and REST APIs, cutting latency by 25%.
+- Backend Engineer, Orbital (2024-02 to 2025-09)
+  * Delivered a notification platform using SQL, improving conversion by 51%.
+  * Delivered a notification platform using SQL, serving 78k daily users.
+- Junior Backend Engineer, Kestrel (2022-07 to 2024-01)
+  * Delivered a payments API using Python, reducing load time by 66%.
+  * Delivered an internal billing service using FastAPI, boosting accuracy by 73%.
+- Junior Python Developer, Brightwave (2020-06 to 2021-10)
+  * Delivered an order-processing service using Python and CI/CD, boosting accuracy by 27%.
+  * Delivered a payments API using PostgreSQL, reducing incidents by 56%.

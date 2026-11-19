@@ -1,0 +1,12 @@
+Name: Maria Murphy
+Title: Junior Software Engineer
+Location: Berlin, DE
+Summary: Junior Software Engineer with 2+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, React, Git, GraphQL, Redis, PostgreSQL
+Education: BSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Junior Software Engineer, Stackhouse (2025-03 to Present)
+  * Delivered the checkout flow using Node.js and Redis, saving $24k per year.
+  * Delivered the checkout flow using PostgreSQL and Git, boosting accuracy by 55%.
+  * Delivered a design system using GraphQL and React, cutting latency by 75%.

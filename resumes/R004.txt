@@ -1,0 +1,22 @@
+Name: Marcus Santos
+Title: Backend Engineer
+Location: Bengaluru, IN
+Summary: Backend Engineer with 3+ years building backend systems.
+Skills: Java, Spring, SQL, Agile, MySQL, Kafka, Docker
+Education: MSc Computer Science
+Experience:
+- Backend Engineer, Quantix (2025-11 to Present)
+  * Delivered a payments API using SQL and Java, reducing load time by 70%.
+  * Delivered a notification platform using MySQL, cutting latency by 76%.
+  * Delivered a notification platform using SQL, reducing load time by 43%.
+- Junior Backend Engineer, Orbital (2025-03 to 2025-09)
+  * Delivered a notification platform using Kafka and Java, reducing incidents by 31%.
+  * Delivered a notification platform using SQL and MySQL, improving conversion by 38%.
+- Junior Backend Engineer, Quantix (2024-04 to 2025-02)
+  * Delivered a payments API using MySQL, saving $66k per year.
+  * Delivered a payments API using Java, reducing incidents by 31%.
+  * Delivered an order-processing service using Docker and MySQL, cutting latency by 67%.
+- Junior Java Developer, Orbital (2023-01 to 2023-07)
+  * Delivered an order-processing service using MySQL and Java, cutting latency by 32%.
+  * Delivered an internal billing service using Docker and Java, reducing incidents by 54%.
+  * Delivered an internal billing service using SQL, cutting latency by 25%.

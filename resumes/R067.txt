@@ -1,0 +1,13 @@
+Name: Clara Khan
+Title: Lead Backend Engineer
+Location: Berlin, DE
+Summary: Lead Backend Engineer with 10+ years building backend systems.
+Skills: Java, Spring, SQL, Redis, Kubernetes, AWS
+Education: MSc Computer Science
+Experience:
+- Lead Backend Engineer, Nimbus Labs (2022-01 to Present)
+  * Delivered an order-processing service using Java and SQL, saving $80k per year.
+  * Delivered a notification platform using Spring and Kubernetes, reducing load time by 51%.
+- Senior Backend Engineer, Kestrel (2016-09 to 2021-12)
+  * Delivered an order-processing service using Redis and Java, improving conversion by 16%.
+  * Delivered an internal billing service using Kubernetes, serving 15k daily users.

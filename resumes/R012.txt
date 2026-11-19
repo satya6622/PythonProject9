@@ -1,0 +1,18 @@
+Name: Diego Murphy
+Title: Site Reliability Engineer
+Location: Bengaluru, IN
+Summary: Site Reliability Engineer with 5+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Python, Git, AWS
+Education: BSc Mathematics
+Certifications: AWS Certified Developer
+Experience:
+- Site Reliability Engineer, Northwind (2025-09 to Present)
+  * Delivered the observability stack using Docker and AWS, saving $33k per year.
+  * Delivered the observability stack using Docker, improving conversion by 19%.
+- Junior DevOps Engineer, Helio Systems (2024-04 to 2025-07)
+  * Delivered a multi-region platform using Docker and Git, saving $30k per year.
+  * Delivered an autoscaling cluster using Python and CI/CD, improving conversion by 13%.
+- Junior Platform Engineer, Vertex AI (2021-12 to 2024-04)
+  * Delivered the deployment pipeline using CI/CD and AWS, boosting accuracy by 73%.
+  * Delivered the observability stack using AWS, serving 57k daily users.
+  * Delivered the deployment pipeline using Python and AWS, improving conversion by 13%.

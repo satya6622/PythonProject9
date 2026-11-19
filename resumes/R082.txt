@@ -1,0 +1,26 @@
+Name: Anika Meyer
+Title: Lead Backend Engineer
+Location: Austin, TX
+Summary: Lead Backend Engineer with 12+ years building backend systems.
+Skills: Python, SQL, REST APIs, PostgreSQL, Flask, Kafka, AWS, FastAPI, Django
+Education: B.Tech Computer Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Lead Backend Engineer, Helio Systems (2024-05 to Present)
+  * Delivered a payments API using PostgreSQL and Kafka, cutting latency by 63%.
+  * Delivered a notification platform using AWS, reducing incidents by 75%.
+- Senior Python Developer, Tidal (2021-03 to 2024-04)
+  * Delivered a notification platform using FastAPI, reducing load time by 27%.
+  * Delivered a payments API using FastAPI and Kafka, reducing incidents by 29%.
+  * Delivered an internal billing service using Django, reducing load time by 20%.
+- Python Developer, Meridian (2019-07 to 2021-03)
+  * Delivered a notification platform using Python and Flask, saving $76k per year.
+  * Delivered a payments API using PostgreSQL and Django, serving 14k daily users.
+- Junior Backend Engineer, Helio Systems (2017-09 to 2019-07)
+  * Delivered a notification platform using PostgreSQL, saving $29k per year.
+  * Delivered an internal billing service using PostgreSQL and FastAPI, serving 74k daily users.
+  * Delivered an internal billing service using Django and Kafka, serving 19k daily users.
+- Junior Backend Engineer, Paperplane (2015-02 to 2017-07)
+  * Delivered a payments API using FastAPI, improving conversion by 60%.
+  * Delivered a payments API using REST APIs and FastAPI, saving $56k per year.
+  * Delivered a payments API using Flask, cutting latency by 51%.

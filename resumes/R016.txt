@@ -1,0 +1,23 @@
+Name: Carlos Petrov
+Title: Data Scientist
+Location: Remote
+Summary: Data Scientist with 4+ years building data systems.
+Skills: Python, Pandas, Machine Learning, AWS, Data Analysis, SQL, LLMs, Docker, Deep Learning
+Education: Diploma in Software Engineering
+Certifications: Certified Scrum Master
+Experience:
+- Data Scientist, Vertex AI (2025-08 to Present)
+  * Delivered a recommendation engine using Docker and Deep Learning, saving $46k per year.
+  * Delivered a forecasting pipeline using SQL, saving $26k per year.
+  * Delivered a fraud-detection model using Deep Learning and Data Analysis, reducing load time by 40%.
+- Junior Data Scientist, Solstice (2025-01 to 2025-08)
+  * Delivered a recommendation engine using Pandas, saving $80k per year.
+  * Delivered a fraud-detection model using Data Analysis and LLMs, boosting accuracy by 17%.
+  * Delivered a fraud-detection model using Python, reducing load time by 52%.
+- Junior ML Engineer, Nimbus Labs (2023-09 to 2024-11)
+  * Delivered a churn-prediction model using LLMs, saving $63k per year.
+  * Delivered a recommendation engine using SQL and Python, reducing incidents by 55%.
+  * Delivered a churn-prediction model using SQL and LLMs, reducing load time by 77%.
+- Junior Data Scientist, Fathom (2023-03 to 2023-09)
+  * Delivered a fraud-detection model using Machine Learning, boosting accuracy by 75%.
+  * Delivered a forecasting pipeline using Docker and LLMs, reducing incidents by 53%.

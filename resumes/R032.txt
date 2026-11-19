@@ -1,0 +1,18 @@
+Name: Clara Silva
+Title: Senior Backend Engineer
+Location: Berlin, DE
+Summary: Senior Backend Engineer with 6+ years building backend systems.
+Skills: Java, Spring, SQL, CI/CD, Microservices, Git, AWS, Kubernetes, Kafka
+Education: Diploma in Software Engineering
+Experience:
+- Senior Backend Engineer, Acme Corp (2025-06 to Present)
+  * Delivered an internal billing service using CI/CD, boosting accuracy by 61%.
+  * Delivered an internal billing service using Kubernetes and AWS, reducing incidents by 68%.
+  * Delivered an order-processing service using Spring, serving 15k daily users.
+- Java Developer, Vertex AI (2022-10 to 2025-05)
+  * Delivered an internal billing service using Java, serving 39k daily users.
+  * Delivered an internal billing service using CI/CD, improving conversion by 16%.
+  * Delivered an internal billing service using Git and SQL, boosting accuracy by 23%.
+- Junior Java Developer, Bluepeak (2020-08 to 2022-10)
+  * Delivered a notification platform using Microservices and SQL, serving 33k daily users.
+  * Delivered a payments API using Microservices and SQL, improving conversion by 77%.

@@ -1,0 +1,19 @@
+Name: Ana Patel
+Title: Data Scientist
+Location: Remote
+Summary: Data Scientist with 4+ years building data systems.
+Skills: Python, Pandas, Machine Learning, Spark, AWS, TensorFlow
+Education: Diploma in Software Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Data Scientist, Lumen (2025-08 to Present)
+  * Delivered a fraud-detection model using Python, saving $73k per year.
+  * Delivered a fraud-detection model using AWS and Python, improving conversion by 17%.
+- Junior Data Analyst, Fathom (2024-08 to 2025-08)
+  * Delivered a recommendation engine using TensorFlow, improving conversion by 34%.
+  * Delivered a recommendation engine using Python and Spark, boosting accuracy by 38%.
+  * Delivered a churn-prediction model using TensorFlow and AWS, reducing incidents by 31%.
+- Junior ML Engineer, Orbital (2023-04 to 2024-06)
+  * Delivered a fraud-detection model using AWS, saving $61k per year.
+  * Delivered a forecasting pipeline using Pandas and AWS, reducing load time by 66%.
+  * Delivered a churn-prediction model using AWS, reducing incidents by 66%.

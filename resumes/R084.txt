@@ -1,0 +1,23 @@
+Name: Noah Santos
+Title: Lead Python Developer
+Location: Berlin, DE
+Summary: Lead Python Developer with 12+ years building backend systems.
+Skills: Python, SQL, REST APIs, PostgreSQL, Git, Flask, Microservices, AWS, FastAPI
+Education: BSc Mathematics
+Certifications: Certified Scrum Master
+Experience:
+- Lead Python Developer, Ironclad (2024-08 to Present)
+  * Delivered an internal billing service using Microservices, saving $44k per year.
+  * Delivered an order-processing service using Python, reducing incidents by 78%.
+  * Delivered an internal billing service using PostgreSQL and AWS, improving conversion by 80%.
+- Senior Python Developer, Ironclad (2020-09 to 2024-08)
+  * Delivered a notification platform using PostgreSQL and Flask, boosting accuracy by 64%.
+  * Delivered an internal billing service using Git and Flask, improving conversion by 42%.
+  * Delivered a payments API using PostgreSQL, cutting latency by 36%.
+- Python Developer, Quantix (2017-02 to 2020-08)
+  * Delivered a payments API using Git and PostgreSQL, reducing incidents by 34%.
+  * Delivered a notification platform using Git and AWS, reducing load time by 22%.
+- Junior Backend Engineer, Tidal (2014-08 to 2017-02)
+  * Delivered a notification platform using Flask and SQL, serving 27k daily users.
+  * Delivered an order-processing service using Python and AWS, reducing incidents by 61%.
+  * Delivered an order-processing service using SQL and Python, reducing load time by 34%.

@@ -1,0 +1,20 @@
+Name: Felix Khan
+Title: Senior UI Engineer
+Location: Austin, TX
+Summary: Senior UI Engineer with 7+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Redux, Git, Docker
+Education: BSc Computer Science
+Experience:
+- Senior UI Engineer, Cobalt (2025-09 to Present)
+  * Delivered an analytics dashboard using JavaScript, cutting latency by 72%.
+  * Delivered a design system using React, reducing incidents by 47%.
+- Frontend Engineer, Kestrel (2024-03 to 2025-08)
+  * Delivered an analytics dashboard using Redux, boosting accuracy by 61%.
+  * Delivered a design system using Git and JavaScript, serving 56k daily users.
+- Junior Web Developer, Vertex AI (2022-02 to 2024-03)
+  * Delivered a customer portal using Git and Redux, serving 60k daily users.
+  * Delivered a design system using React, reducing incidents by 60%.
+  * Delivered the checkout flow using Git and HTML/CSS, reducing load time by 46%.
+- Junior Frontend Engineer, Nimbus Labs (2020-03 to 2022-02)
+  * Delivered a design system using HTML/CSS and Git, boosting accuracy by 46%.
+  * Delivered a customer portal using Redux, cutting latency by 67%.

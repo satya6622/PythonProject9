@@ -1,0 +1,16 @@
+Name: Ivan Petrov
+Title: Web Developer
+Location: Austin, TX
+Summary: Web Developer with 3+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Git, Redux, REST APIs
+Education: BSc Information Technology
+Experience:
+- Web Developer, Kestrel (2025-05 to Present)
+  * Delivered the checkout flow using HTML/CSS and Redux, saving $37k per year.
+  * Delivered the checkout flow using React, saving $15k per year.
+- Junior Frontend Engineer, Tidal (2024-08 to 2025-05)
+  * Delivered a design system using REST APIs and React, cutting latency by 47%.
+  * Delivered a customer portal using Git, boosting accuracy by 78%.
+- Junior Frontend Engineer, Stackhouse (2023-07 to 2024-07)
+  * Delivered the checkout flow using HTML/CSS, reducing incidents by 28%.
+  * Delivered an analytics dashboard using Redux and React, boosting accuracy by 62%.

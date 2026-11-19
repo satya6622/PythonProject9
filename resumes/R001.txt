@@ -1,0 +1,26 @@
+Name: Anika Ali
+Title: DevOps Engineer
+Location: Toronto, CA
+Summary: DevOps Engineer with 3+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Azure, Microservices, Terraform, Python, Kubernetes
+Education: BSc Mathematics
+Certifications: AWS Certified Developer
+Experience:
+- DevOps Engineer, Pixel&Co (2026-03 to Present)
+  * Delivered the deployment pipeline using Kubernetes, serving 47k daily users.
+  * Delivered a multi-region platform using Python, improving conversion by 47%.
+  * Delivered an autoscaling cluster using Terraform, reducing load time by 23%.
+- Junior Site Reliability Engineer, Nimbus Labs (2025-09 to 2026-02)
+  * Delivered the deployment pipeline using Terraform and Python, reducing incidents by 20%.
+  * Delivered the deployment pipeline using Docker, reducing load time by 41%.
+  * Delivered a multi-region platform using Docker and Azure, reducing incidents by 58%.
+- Junior Platform Engineer, Northwind (2025-03 to 2025-09)
+  * Delivered the observability stack using Docker and Python, reducing incidents by 40%.
+  * Delivered the observability stack using Terraform, boosting accuracy by 16%.
+- Junior DevOps Engineer, Vertex AI (2024-07 to 2025-03)
+  * Delivered the observability stack using CI/CD, serving 80k daily users.
+  * Delivered a multi-region platform using Microservices and Azure, improving conversion by 40%.
+- Junior Site Reliability Engineer, Stackhouse (2024-02 to 2024-07)
+  * Delivered the observability stack using Azure and Linux, reducing incidents by 26%.
+  * Delivered an autoscaling cluster using Linux and Terraform, saving $32k per year.
+  * Delivered a multi-region platform using CI/CD, reducing incidents by 45%.

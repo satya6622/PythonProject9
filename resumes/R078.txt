@@ -1,0 +1,15 @@
+Name: Anika Khan
+Title: Site Reliability Engineer
+Location: Berlin, DE
+Summary: Site Reliability Engineer with 3+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Python, Terraform, Microservices, Azure, Kubernetes, Go
+Education: BSc Information Technology
+Certifications: Certified Scrum Master
+Experience:
+- Site Reliability Engineer, Paperplane (2025-08 to Present)
+  * Delivered a multi-region platform using Docker and Python, serving 79k daily users.
+  * Delivered an autoscaling cluster using Python and Docker, reducing load time by 80%.
+- Junior Platform Engineer, Paperplane (2023-10 to 2025-08)
+  * Delivered the observability stack using Docker, boosting accuracy by 66%.
+  * Delivered the observability stack using Kubernetes and Azure, improving conversion by 56%.
+  * Delivered an autoscaling cluster using CI/CD and Terraform, reducing load time by 39%.

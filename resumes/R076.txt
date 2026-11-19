@@ -1,0 +1,20 @@
+Name: Samir Bianchi
+Title: Senior Software Engineer
+Location: Berlin, DE
+Summary: Senior Software Engineer with 8+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, CI/CD, Redis, Docker, TypeScript
+Education: B.Tech Computer Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Senior Software Engineer, Northwind (2024-05 to Present)
+  * Delivered a design system using CI/CD and Redis, cutting latency by 31%.
+  * Delivered a design system using JavaScript and TypeScript, saving $76k per year.
+- Full Stack Engineer, Nimbus Labs (2022-05 to 2024-03)
+  * Delivered the checkout flow using Docker and Node.js, improving conversion by 49%.
+  * Delivered the checkout flow using TypeScript, saving $51k per year.
+- Junior Software Engineer, Acme Corp (2020-02 to 2022-05)
+  * Delivered an analytics dashboard using TypeScript and CI/CD, improving conversion by 66%.
+  * Delivered a design system using CI/CD, serving 54k daily users.
+- Junior Software Engineer, Paperplane (2018-09 to 2020-01)
+  * Delivered the checkout flow using Redis, reducing incidents by 38%.
+  * Delivered the checkout flow using CI/CD and Redis, reducing load time by 73%.

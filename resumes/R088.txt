@@ -1,0 +1,19 @@
+Name: Amara Costa
+Title: Senior Data Scientist
+Location: Austin, TX
+Summary: Senior Data Scientist with 7+ years building data systems.
+Skills: Python, Pandas, Machine Learning, PyTorch, NLP, Docker
+Education: BSc Mathematics
+Certifications: CKA
+Experience:
+- Senior Data Scientist, Cobalt (2024-03 to Present)
+  * Delivered a fraud-detection model using Pandas and NLP, saving $55k per year.
+  * Delivered a fraud-detection model using Python, improving conversion by 79%.
+- Data Analyst, Paperplane (2022-09 to 2024-03)
+  * Delivered a forecasting pipeline using PyTorch and NLP, boosting accuracy by 45%.
+  * Delivered a recommendation engine using Pandas and NLP, reducing incidents by 74%.
+  * Delivered a recommendation engine using Python and NLP, cutting latency by 18%.
+- Junior ML Engineer, Brightwave (2019-06 to 2022-07)
+  * Delivered a recommendation engine using Python and PyTorch, saving $26k per year.
+  * Delivered a forecasting pipeline using NLP, reducing load time by 38%.
+  * Delivered a forecasting pipeline using PyTorch, reducing incidents by 77%.

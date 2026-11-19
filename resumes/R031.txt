@@ -1,0 +1,21 @@
+Name: Kenji Dubois
+Title: Platform Engineer
+Location: London, UK
+Summary: Platform Engineer with 5+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Git, Terraform, Kubernetes, Microservices, AWS
+Education: MSc Computer Science
+Experience:
+- Platform Engineer, Cobalt (2025-08 to Present)
+  * Delivered an autoscaling cluster using Docker and Git, reducing load time by 49%.
+  * Delivered the observability stack using Linux, boosting accuracy by 30%.
+- Junior Site Reliability Engineer, Nimbus Labs (2024-03 to 2025-06)
+  * Delivered the deployment pipeline using Linux, reducing incidents by 26%.
+  * Delivered a multi-region platform using Microservices and AWS, reducing incidents by 33%.
+  * Delivered an autoscaling cluster using Kubernetes, cutting latency by 54%.
+- Junior Platform Engineer, Fathom (2023-02 to 2024-03)
+  * Delivered a multi-region platform using Terraform and Git, saving $12k per year.
+  * Delivered the deployment pipeline using Kubernetes, boosting accuracy by 20%.
+- Junior Site Reliability Engineer, Tidal (2022-01 to 2023-02)
+  * Delivered the observability stack using CI/CD and Docker, serving 26k daily users.
+  * Delivered the deployment pipeline using Docker and CI/CD, cutting latency by 50%.
+  * Delivered the observability stack using Git, reducing load time by 42%.

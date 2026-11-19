@@ -1,0 +1,16 @@
+Name: Hugo Ali
+Title: Senior Backend Engineer
+Location: Berlin, DE
+Summary: Senior Backend Engineer with 9+ years building backend systems.
+Skills: Java, Spring, SQL, Docker, Git, Microservices, Agile, Kafka, Kubernetes
+Education: BSc Mathematics
+Certifications: AWS Certified Developer
+Experience:
+- Senior Backend Engineer, Lumen (2023-07 to Present)
+  * Delivered an internal billing service using Git, reducing incidents by 50%.
+  * Delivered a notification platform using Kafka, serving 73k daily users.
+  * Delivered an order-processing service using Kubernetes and Agile, saving $53k per year.
+- Backend Engineer, Stackhouse (2018-04 to 2023-07)
+  * Delivered a notification platform using Kafka, reducing load time by 28%.
+  * Delivered an internal billing service using Kafka, reducing load time by 79%.
+  * Delivered an order-processing service using SQL, cutting latency by 64%.

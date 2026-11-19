@@ -1,0 +1,19 @@
+Name: Rosa Kim
+Title: Senior ML Engineer
+Location: Remote
+Summary: Senior ML Engineer with 5+ years building data systems.
+Skills: Python, Pandas, Machine Learning, PyTorch, Spark, Airflow
+Education: BSc Mathematics
+Experience:
+- Senior ML Engineer, Solstice (2024-06 to Present)
+  * Delivered a fraud-detection model using Pandas and PyTorch, saving $38k per year.
+  * Delivered a recommendation engine using Machine Learning and PyTorch, improving conversion by 69%.
+  * Delivered a churn-prediction model using Spark, reducing incidents by 41%.
+- Data Scientist, Quantix (2023-03 to 2024-06)
+  * Delivered a recommendation engine using PyTorch, saving $75k per year.
+  * Delivered a fraud-detection model using Airflow and Pandas, improving conversion by 18%.
+  * Delivered a recommendation engine using Pandas, cutting latency by 19%.
+- Junior ML Engineer, Paperplane (2021-08 to 2023-01)
+  * Delivered a forecasting pipeline using PyTorch and Python, saving $27k per year.
+  * Delivered a recommendation engine using Machine Learning, serving 80k daily users.
+  * Delivered a fraud-detection model using PyTorch and Machine Learning, reducing incidents by 77%.

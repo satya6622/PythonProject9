@@ -1,0 +1,18 @@
+Name: Felix Costa
+Title: Python Developer
+Location: Toronto, CA
+Summary: Python Developer with 3+ years building backend systems.
+Skills: Python, SQL, REST APIs, Kafka, Git, Microservices, Flask, PostgreSQL
+Education: BSc Computer Science
+Experience:
+- Python Developer, Quantix (2026-02 to Present)
+  * Delivered a payments API using PostgreSQL, serving 16k daily users.
+  * Delivered a payments API using PostgreSQL, reducing incidents by 28%.
+- Junior Backend Engineer, Solstice (2024-07 to 2025-12)
+  * Delivered a notification platform using Kafka and Flask, saving $29k per year.
+  * Delivered a notification platform using REST APIs and Flask, improving conversion by 64%.
+  * Delivered a payments API using Flask, reducing incidents by 12%.
+- Junior Backend Engineer, Quantix (2023-04 to 2024-05)
+  * Delivered a notification platform using REST APIs and PostgreSQL, serving 58k daily users.
+  * Delivered an order-processing service using Microservices and PostgreSQL, serving 73k daily users.
+  * Delivered a notification platform using Flask and PostgreSQL, improving conversion by 51%.

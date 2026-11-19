@@ -1,0 +1,15 @@
+Name: Sana Novak
+Title: Senior Web Developer
+Location: London, UK
+Summary: Senior Web Developer with 7+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Agile, REST APIs, AWS, Docker, Redux, GraphQL
+Education: Diploma in Software Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Senior Web Developer, Solstice (2022-05 to Present)
+  * Delivered the checkout flow using Docker, boosting accuracy by 38%.
+  * Delivered the checkout flow using Agile and Docker, cutting latency by 64%.
+  * Delivered a customer portal using REST APIs, improving conversion by 42%.
+- Web Developer, Stackhouse (2019-07 to 2022-04)
+  * Delivered a design system using HTML/CSS and Agile, reducing incidents by 44%.
+  * Delivered an analytics dashboard using GraphQL, reducing load time by 18%.

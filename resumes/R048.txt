@@ -1,0 +1,18 @@
+Name: Yusuf Garcia
+Title: Lead Full Stack Engineer
+Location: Toronto, CA
+Summary: Lead Full Stack Engineer with 12+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, PostgreSQL, React, AWS, Docker, GraphQL
+Education: B.Tech Computer Engineering
+Experience:
+- Lead Full Stack Engineer, Pixel&Co (2024-07 to Present)
+  * Delivered a customer portal using React, reducing incidents by 18%.
+  * Delivered a design system using Docker and GraphQL, reducing incidents by 52%.
+  * Delivered the checkout flow using React, cutting latency by 68%.
+- Senior Software Engineer, Helio Systems (2019-08 to 2024-06)
+  * Delivered a design system using Docker, reducing incidents by 77%.
+  * Delivered the checkout flow using PostgreSQL and Node.js, improving conversion by 45%.
+- Full Stack Engineer, Fathom (2015-02 to 2019-07)
+  * Delivered a design system using React and JavaScript, serving 57k daily users.
+  * Delivered a design system using JavaScript and PostgreSQL, cutting latency by 78%.
+  * Delivered a customer portal using Node.js, serving 80k daily users.

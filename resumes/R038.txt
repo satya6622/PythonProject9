@@ -1,0 +1,19 @@
+Name: Clara Meyer
+Title: Full Stack Engineer
+Location: Austin, TX
+Summary: Full Stack Engineer with 2+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, MongoDB, AWS, Git, GraphQL
+Education: BSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Full Stack Engineer, Pixel&Co (2026-04 to Present)
+  * Delivered a customer portal using GraphQL and Git, improving conversion by 73%.
+  * Delivered an analytics dashboard using AWS and GraphQL, improving conversion by 61%.
+- Junior Software Engineer, Tidal (2025-08 to 2026-03)
+  * Delivered the checkout flow using JavaScript, reducing load time by 43%.
+  * Delivered an analytics dashboard using Node.js and Git, serving 61k daily users.
+  * Delivered an analytics dashboard using JavaScript, cutting latency by 52%.
+- Junior Full Stack Engineer, Solstice (2024-11 to 2025-08)
+  * Delivered a design system using Node.js, reducing load time by 23%.
+  * Delivered a customer portal using SQL, reducing load time by 79%.
+  * Delivered the checkout flow using AWS, serving 37k daily users.

@@ -1,0 +1,23 @@
+Name: Ruth Moreau
+Title: Senior Frontend Engineer
+Location: London, UK
+Summary: Senior Frontend Engineer with 8+ years building frontend systems.
+Skills: React, JavaScript, HTML/CSS, Tailwind, Testing, Vue
+Education: B.Tech Computer Engineering
+Certifications: CKA
+Experience:
+- Senior Frontend Engineer, Lumen (2025-09 to Present)
+  * Delivered a customer portal using HTML/CSS, saving $63k per year.
+  * Delivered an analytics dashboard using HTML/CSS and JavaScript, saving $75k per year.
+  * Delivered the checkout flow using React and Tailwind, reducing load time by 67%.
+- Web Developer, Ironclad (2023-04 to 2025-08)
+  * Delivered a customer portal using Testing and JavaScript, reducing load time by 57%.
+  * Delivered an analytics dashboard using React and Tailwind, reducing incidents by 63%.
+- Junior Frontend Engineer, Northwind (2021-08 to 2023-04)
+  * Delivered a customer portal using React and JavaScript, serving 31k daily users.
+  * Delivered the checkout flow using Tailwind and React, boosting accuracy by 21%.
+  * Delivered the checkout flow using React and Tailwind, reducing incidents by 47%.
+- Junior Web Developer, Orbital (2018-11 to 2021-08)
+  * Delivered a customer portal using Testing and Tailwind, cutting latency by 48%.
+  * Delivered a customer portal using JavaScript, cutting latency by 21%.
+  * Delivered an analytics dashboard using Testing, saving $23k per year.

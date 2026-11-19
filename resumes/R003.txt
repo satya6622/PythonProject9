@@ -1,0 +1,14 @@
+Name: Ethan Reyes
+Title: Site Reliability Engineer
+Location: Toronto, CA
+Summary: Site Reliability Engineer with 3+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Python, Terraform, Go, Git, Microservices, Azure
+Education: BSc Information Technology
+Experience:
+- Site Reliability Engineer, Pixel&Co (2025-12 to Present)
+  * Delivered the deployment pipeline using Azure, boosting accuracy by 13%.
+  * Delivered an autoscaling cluster using CI/CD, saving $74k per year.
+- Junior Platform Engineer, Pixel&Co (2024-01 to 2025-10)
+  * Delivered the deployment pipeline using Python, improving conversion by 39%.
+  * Delivered an autoscaling cluster using Go, reducing load time by 18%.
+  * Delivered a multi-region platform using CI/CD, serving 22k daily users.

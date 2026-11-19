@@ -1,0 +1,22 @@
+Name: Alma Nguyen
+Title: Senior Python Developer
+Location: Toronto, CA
+Summary: Senior Python Developer with 6+ years building backend systems.
+Skills: Python, SQL, REST APIs, Redis, Django, Docker, Kubernetes, CI/CD
+Education: Diploma in Software Engineering
+Certifications: CKA
+Experience:
+- Senior Python Developer, Helio Systems (2025-02 to Present)
+  * Delivered a payments API using Django and REST APIs, saving $30k per year.
+  * Delivered a notification platform using Kubernetes, improving conversion by 65%.
+- Backend Engineer, Quantix (2023-04 to 2025-02)
+  * Delivered a notification platform using Redis, improving conversion by 60%.
+  * Delivered a notification platform using Docker and Redis, boosting accuracy by 29%.
+  * Delivered an order-processing service using Kubernetes and SQL, saving $52k per year.
+- Junior Python Developer, Paperplane (2021-11 to 2023-03)
+  * Delivered a payments API using Redis, serving 35k daily users.
+  * Delivered a payments API using Docker and Django, saving $49k per year.
+- Junior Python Developer, Quantix (2020-10 to 2021-09)
+  * Delivered an internal billing service using CI/CD and REST APIs, serving 73k daily users.
+  * Delivered a payments API using Kubernetes and CI/CD, boosting accuracy by 58%.
+  * Delivered an order-processing service using SQL, reducing incidents by 57%.

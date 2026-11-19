@@ -1,0 +1,15 @@
+Name: Anika Rossi
+Title: Lead Platform Engineer
+Location: Bengaluru, IN
+Summary: Lead Platform Engineer with 9+ years building devops systems.
+Skills: Docker, Linux, CI/CD, Python, AWS, Git, Kubernetes, GCP
+Education: BSc Information Technology
+Certifications: CKA
+Experience:
+- Lead Platform Engineer, Orbital (2022-10 to Present)
+  * Delivered the observability stack using Docker and Git, boosting accuracy by 23%.
+  * Delivered the deployment pipeline using Docker and GCP, serving 51k daily users.
+- Senior Site Reliability Engineer, Pixel&Co (2017-08 to 2022-09)
+  * Delivered the observability stack using Python and Linux, cutting latency by 32%.
+  * Delivered the deployment pipeline using Python, serving 77k daily users.
+  * Delivered the observability stack using Kubernetes, improving conversion by 52%.

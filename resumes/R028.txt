@@ -1,0 +1,24 @@
+Name: Zoe Tanaka
+Title: Lead Backend Engineer
+Location: Berlin, DE
+Summary: Lead Backend Engineer with 10+ years building backend systems.
+Skills: Java, Spring, SQL, CI/CD, Redis, Microservices, Docker, Kafka, Git
+Education: Diploma in Software Engineering
+Experience:
+- Lead Backend Engineer, Fathom (2024-12 to Present)
+  * Delivered an internal billing service using CI/CD, boosting accuracy by 39%.
+  * Delivered an order-processing service using Microservices, improving conversion by 13%.
+- Senior Java Developer, Pixel&Co (2023-03 to 2024-12)
+  * Delivered a notification platform using Redis and Git, serving 57k daily users.
+  * Delivered a payments API using Microservices and Spring, saving $71k per year.
+  * Delivered an internal billing service using Microservices and CI/CD, improving conversion by 52%.
+- Java Developer, Lumen (2020-05 to 2022-06)
+  * Delivered a notification platform using Redis and Kafka, serving 55k daily users.
+  * Delivered an order-processing service using Kafka and Redis, cutting latency by 57%.
+- Junior Java Developer, Northwind (2017-07 to 2020-03)
+  * Delivered an internal billing service using Git, cutting latency by 76%.
+  * Delivered an internal billing service using Git and Microservices, reducing incidents by 73%.
+- Junior Backend Engineer, Acme Corp (2015-08 to 2016-10)
+  * Delivered an order-processing service using Git, reducing load time by 79%.
+  * Delivered a notification platform using Docker, serving 79k daily users.
+  * Delivered an internal billing service using Java and Kafka, reducing load time by 59%.

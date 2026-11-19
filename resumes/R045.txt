@@ -1,0 +1,14 @@
+Name: Chloe Bianchi
+Title: Senior Software Engineer
+Location: London, UK
+Summary: Senior Software Engineer with 5+ years building frontend systems.
+Skills: JavaScript, Node.js, SQL, AWS, Git, React, TypeScript, GraphQL
+Education: BSc Computer Science
+Certifications: AWS Certified Developer
+Experience:
+- Senior Software Engineer, Orbital (2024-08 to Present)
+  * Delivered the checkout flow using JavaScript, boosting accuracy by 29%.
+  * Delivered a design system using React and AWS, serving 46k daily users.
+- Software Engineer, Helio Systems (2021-08 to 2024-07)
+  * Delivered the checkout flow using GraphQL, reducing incidents by 19%.
+  * Delivered a customer portal using React, serving 73k daily users.

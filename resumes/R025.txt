@@ -1,0 +1,18 @@
+Name: Pedro Ivanov
+Title: Senior Backend Engineer
+Location: London, UK
+Summary: Senior Backend Engineer with 8+ years building backend systems.
+Skills: Python, SQL, REST APIs, PostgreSQL, CI/CD, Docker, Microservices
+Education: B.Tech Computer Engineering
+Certifications: Certified Scrum Master
+Experience:
+- Senior Backend Engineer, Northwind (2023-04 to Present)
+  * Delivered a payments API using PostgreSQL, improving conversion by 72%.
+  * Delivered an internal billing service using Python, serving 32k daily users.
+- Backend Engineer, Nimbus Labs (2020-11 to 2023-02)
+  * Delivered a payments API using SQL, saving $34k per year.
+  * Delivered a payments API using CI/CD and SQL, reducing incidents by 49%.
+- Junior Python Developer, Pixel&Co (2018-05 to 2020-02)
+  * Delivered a payments API using Microservices, improving conversion by 36%.
+  * Delivered an order-processing service using Python and REST APIs, saving $44k per year.
+  * Delivered an order-processing service using REST APIs, boosting accuracy by 49%.

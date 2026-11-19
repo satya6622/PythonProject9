@@ -1,0 +1,21 @@
+Name: Emma Okafor
+Title: Senior Data Scientist
+Location: London, UK
+Summary: Senior Data Scientist with 9+ years building data systems.
+Skills: Python, Pandas, Machine Learning, PyTorch, Data Analysis, Deep Learning, Airflow
+Education: B.Tech Computer Engineering
+Certifications: AWS Certified Developer
+Experience:
+- Senior Data Scientist, Solstice (2024-06 to Present)
+  * Delivered a forecasting pipeline using Airflow and PyTorch, saving $74k per year.
+  * Delivered a recommendation engine using Deep Learning, serving 61k daily users.
+- ML Engineer, Vertex AI (2022-09 to 2024-04)
+  * Delivered a churn-prediction model using Airflow and Pandas, cutting latency by 24%.
+  * Delivered a churn-prediction model using Airflow and Machine Learning, boosting accuracy by 41%.
+- Junior ML Engineer, Kestrel (2020-09 to 2022-07)
+  * Delivered a recommendation engine using Deep Learning and Data Analysis, serving 78k daily users.
+  * Delivered a recommendation engine using Pandas, cutting latency by 33%.
+- Junior Data Analyst, Vertex AI (2017-11 to 2020-09)
+  * Delivered a forecasting pipeline using PyTorch, saving $62k per year.
+  * Delivered a fraud-detection model using Machine Learning and Pandas, boosting accuracy by 13%.
+  * Delivered a churn-prediction model using Pandas, cutting latency by 30%.

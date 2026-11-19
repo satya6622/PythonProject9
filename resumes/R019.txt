@@ -1,0 +1,12 @@
+Name: Jane Mills
+Title: Frontend Engineer
+Location: Remote
+Summary: Frontend engineer focused on React applications and developer tooling.
+Skills: React, JavaScript, Redux, Testing, Docker, HTML/CSS, Git
+Education: BSc Information Technology
+Experience:
+- Frontend Engineer, Orbital (2022-09 to Present)
+  * Built a React customer portal with Redux and Jest, cutting support tickets by 30%.
+  * Containerised the frontend with Docker and CI/CD, reducing deploy time by 70%.
+- Web Developer, Local Agency (2020-07 to 2022-08)
+  * Delivered React and JavaScript sites for 12 clients, improving page speed by 35%.

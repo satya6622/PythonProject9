@@ -1,0 +1,22 @@
+Name: Victor Rossi
+Title: Lead Data Analyst
+Location: Berlin, DE
+Summary: Lead Data Analyst with 12+ years building data systems.
+Skills: Python, Pandas, Machine Learning, NLP, Airflow, Docker, LLMs, TensorFlow, AWS
+Education: BSc Information Technology
+Experience:
+- Lead Data Analyst, Orbital (2024-05 to Present)
+  * Delivered a recommendation engine using Machine Learning, improving conversion by 69%.
+  * Delivered a forecasting pipeline using Pandas and NLP, boosting accuracy by 69%.
+  * Delivered a forecasting pipeline using LLMs, reducing load time by 62%.
+- Senior Data Scientist, Kestrel (2022-02 to 2024-05)
+  * Delivered a fraud-detection model using Docker, reducing incidents by 72%.
+  * Delivered a recommendation engine using NLP, reducing load time by 44%.
+  * Delivered a fraud-detection model using LLMs, reducing incidents by 79%.
+- ML Engineer, Fathom (2018-06 to 2022-01)
+  * Delivered a churn-prediction model using Python, improving conversion by 66%.
+  * Delivered a churn-prediction model using TensorFlow and NLP, saving $35k per year.
+- Junior Data Analyst, Acme Corp (2015-04 to 2018-05)
+  * Delivered a forecasting pipeline using Docker, cutting latency by 25%.
+  * Delivered a recommendation engine using AWS, improving conversion by 55%.
+  * Delivered a churn-prediction model using Machine Learning and Docker, cutting latency by 29%.

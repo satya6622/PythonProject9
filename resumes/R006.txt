@@ -1,0 +1,24 @@
+Name: Iris Sato
+Title: Senior Java Developer
+Location: Austin, TX
+Summary: Senior Java Developer with 6+ years building backend systems.
+Skills: Java, Spring, SQL, Kubernetes, Agile, Docker
+Education: MSc Computer Science
+Certifications: Certified Scrum Master
+Experience:
+- Senior Java Developer, Nimbus Labs (2025-08 to Present)
+  * Delivered an order-processing service using Java and Spring, reducing incidents by 51%.
+  * Delivered an order-processing service using Spring, reducing load time by 17%.
+  * Delivered an order-processing service using Agile and Java, saving $65k per year.
+- Java Developer, Orbital (2024-01 to 2025-06)
+  * Delivered an internal billing service using Spring, boosting accuracy by 78%.
+  * Delivered an internal billing service using Spring, boosting accuracy by 27%.
+  * Delivered a notification platform using SQL, reducing incidents by 79%.
+- Junior Backend Engineer, Helio Systems (2022-02 to 2023-11)
+  * Delivered an internal billing service using Agile and Docker, boosting accuracy by 47%.
+  * Delivered a notification platform using Agile, saving $21k per year.
+  * Delivered a payments API using Agile, improving conversion by 52%.
+- Junior Backend Engineer, Ironclad (2020-08 to 2022-02)
+  * Delivered an internal billing service using Java and Docker, cutting latency by 65%.
+  * Delivered a notification platform using Java, saving $12k per year.
+  * Delivered an internal billing service using Java and Spring, serving 40k daily users.

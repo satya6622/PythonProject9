@@ -1,0 +1,16 @@
+Name: Carlos Meyer
+Title: Data Scientist
+Location: Toronto, CA
+Summary: Data Scientist with 4+ years building data systems.
+Skills: Python, Pandas, Machine Learning, SQL, Docker, LLMs, PyTorch, NLP
+Education: Diploma in Software Engineering
+Experience:
+- Data Scientist, Brightwave (2026-01 to Present)
+  * Delivered a churn-prediction model using Pandas, reducing incidents by 74%.
+  * Delivered a recommendation engine using Machine Learning, reducing incidents by 72%.
+- Junior Data Scientist, Northwind (2024-06 to 2025-11)
+  * Delivered a recommendation engine using Machine Learning, reducing load time by 41%.
+  * Delivered a recommendation engine using SQL, reducing incidents by 19%.
+- Junior Data Scientist, Pixel&Co (2022-06 to 2023-09)
+  * Delivered a recommendation engine using Python and Pandas, boosting accuracy by 64%.
+  * Delivered a forecasting pipeline using LLMs, reducing incidents by 67%.

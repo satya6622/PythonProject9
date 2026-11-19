@@ -1,0 +1,20 @@
+Name: Kofi Lopez
+Title: Backend Engineer
+Location: Bengaluru, IN
+Summary: Backend Engineer with 5+ years building backend systems.
+Skills: Python, SQL, REST APIs, Git, CI/CD, Kafka, Microservices
+Education: BSc Mathematics
+Certifications: Certified Scrum Master
+Experience:
+- Backend Engineer, Brightwave (2025-06 to Present)
+  * Delivered a notification platform using Microservices and Python, saving $44k per year.
+  * Delivered an internal billing service using CI/CD, boosting accuracy by 59%.
+  * Delivered a notification platform using Python and REST APIs, reducing incidents by 36%.
+- Junior Backend Engineer, Bluepeak (2024-03 to 2025-06)
+  * Delivered a payments API using CI/CD, serving 67k daily users.
+  * Delivered a payments API using Microservices, saving $54k per year.
+  * Delivered a notification platform using Microservices, reducing load time by 34%.
+- Junior Python Developer, Acme Corp (2022-05 to 2024-03)
+  * Delivered a payments API using SQL, reducing load time by 20%.
+  * Delivered a notification platform using Kafka, serving 25k daily users.
+  * Delivered an internal billing service using SQL and Git, improving conversion by 68%.
